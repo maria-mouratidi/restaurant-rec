@@ -1,0 +1,229 @@
+deny ==================================================
+
+Combinations of 5 Words ------------------------------
+i, dont, want, thai, food: 4
+no, i, want, thai, food: 3
+no, i, dont, want, thai: 2
+no, i, dont, want, food: 2
+no, dont, want, thai, food: 2
+i, dont, want, chinese, i: 2
+i, dont, want, chinese, want: 2
+i, dont, want, chinese, thai: 2
+i, dont, want, chinese, food: 2
+i, dont, want, i, want: 2
+i, dont, want, i, thai: 2
+i, dont, want, i, food: 2
+i, dont, want, want, thai: 2
+i, dont, want, want, food: 2
+i, dont, chinese, i, want: 2
+i, dont, chinese, i, thai: 2
+i, dont, chinese, i, food: 2
+i, dont, chinese, want, thai: 2
+i, dont, chinese, want, food: 2
+i, dont, chinese, thai, food: 2
+i, dont, i, want, thai: 2
+i, dont, i, want, food: 2
+i, dont, i, thai, food: 2
+i, want, chinese, i, want: 2
+i, want, chinese, i, thai: 2
+i, want, chinese, i, food: 2
+i, want, chinese, want, thai: 2
+i, want, chinese, want, food: 2
+i, want, chinese, thai, food: 2
+i, want, i, want, thai: 2
+i, want, i, want, food: 2
+i, want, i, thai, food: 2
+i, want, want, thai, food: 2
+i, chinese, i, want, thai: 2
+i, chinese, i, want, food: 2
+i, chinese, i, thai, food: 2
+i, chinese, want, thai, food: 2
+i, i, want, thai, food: 2
+dont, want, chinese, i, want: 2
+dont, want, chinese, i, thai: 2
+dont, want, chinese, i, food: 2
+dont, want, chinese, want, thai: 2
+dont, want, chinese, want, food: 2
+dont, want, chinese, thai, food: 2
+dont, want, i, want, thai: 2
+dont, want, i, want, food: 2
+dont, want, i, thai, food: 2
+dont, want, want, thai, food: 2
+dont, chinese, i, want, thai: 2
+dont, chinese, i, want, food: 2
+dont, chinese, i, thai, food: 2
+dont, chinese, want, thai, food: 2
+dont, i, want, thai, food: 2
+want, chinese, i, want, thai: 2
+want, chinese, i, want, food: 2
+want, chinese, i, thai, food: 2
+want, chinese, want, thai, food: 2
+want, i, want, thai, food: 2
+chinese, i, want, thai, food: 2
+
+Combinations of 4 Words ------------------------------
+i, want, thai, food: 6
+i, dont, want, food: 5
+i, dont, want, thai: 4
+dont, want, thai, food: 4
+no, i, want, thai: 3
+no, i, want, food: 3
+no, i, dont, want: 2
+no, i, thai, food: 2
+no, dont, want, thai: 2
+no, dont, want, food: 2
+no, want, thai, food: 2
+i, dont, want, chinese: 2
+i, dont, want, i: 2
+i, dont, want, want: 2
+i, dont, chinese, i: 2
+i, dont, chinese, want: 2
+i, dont, chinese, thai: 2
+i, dont, chinese, food: 2
+i, dont, i, want: 2
+i, dont, i, thai: 2
+i, dont, i, food: 2
+i, dont, thai, food: 2
+i, want, chinese, i: 2
+i, want, chinese, want: 2
+i, want, chinese, thai: 2
+i, want, chinese, food: 2
+i, want, i, want: 2
+i, want, i, thai: 2
+i, want, i, food: 2
+i, want, want, thai: 2
+i, want, want, food: 2
+i, chinese, i, want: 2
+i, chinese, i, thai: 2
+i, chinese, i, food: 2
+i, chinese, want, thai: 2
+i, chinese, want, food: 2
+i, chinese, thai, food: 2
+i, i, want, thai: 2
+i, i, want, food: 2
+i, i, thai, food: 2
+dont, want, chinese, i: 2
+dont, want, chinese, want: 2
+dont, want, chinese, thai: 2
+dont, want, chinese, food: 2
+dont, want, i, want: 2
+dont, want, i, thai: 2
+dont, want, i, food: 2
+dont, want, want, thai: 2
+dont, want, want, food: 2
+dont, chinese, i, want: 2
+dont, chinese, i, thai: 2
+dont, chinese, i, food: 2
+dont, chinese, want, thai: 2
+dont, chinese, want, food: 2
+dont, chinese, thai, food: 2
+dont, i, want, thai: 2
+dont, i, want, food: 2
+dont, i, thai, food: 2
+want, chinese, i, want: 2
+want, chinese, i, thai: 2
+want, chinese, i, food: 2
+want, chinese, want, thai: 2
+want, chinese, want, food: 2
+want, chinese, thai, food: 2
+want, i, want, thai: 2
+want, i, want, food: 2
+want, i, thai, food: 2
+want, want, thai, food: 2
+chinese, i, want, thai: 2
+chinese, i, want, food: 2
+chinese, i, thai, food: 2
+chinese, want, thai, food: 2
+
+Combinations of 3 Words ------------------------------
+i, want, food: 7
+i, dont, want: 6
+i, want, thai: 6
+dont, want, food: 5
+i, thai, food: 4
+dont, want, thai: 4
+want, thai, food: 4
+i, dont, food: 3
+no, i, want: 3
+no, i, thai: 2
+no, i, food: 2
+no, dont, want: 2
+no, want, thai: 2
+no, want, food: 2
+i, dont, chinese: 2
+i, dont, i: 2
+i, dont, thai: 2
+i, want, chinese: 2
+i, want, i: 2
+i, want, want: 2
+i, chinese, i: 2
+i, chinese, want: 2
+i, chinese, thai: 2
+i, chinese, food: 2
+i, i, want: 2
+i, i, thai: 2
+i, i, food: 2
+dont, want, chinese: 2
+dont, want, i: 2
+dont, want, want: 2
+dont, chinese, i: 2
+dont, chinese, want: 2
+dont, chinese, thai: 2
+dont, chinese, food: 2
+dont, i, want: 2
+dont, i, thai: 2
+dont, i, food: 2
+dont, thai, food: 2
+want, chinese, i: 2
+want, chinese, want: 2
+want, chinese, thai: 2
+want, chinese, food: 2
+want, i, want: 2
+want, i, thai: 2
+want, i, food: 2
+want, want, thai: 2
+want, want, food: 2
+chinese, i, want: 2
+chinese, i, thai: 2
+chinese, i, food: 2
+chinese, want, thai: 2
+chinese, want, food: 2
+chinese, thai, food: 2
+
+Combinations of 2 Words ------------------------------
+i, want: 8
+dont, want: 7
+i, food: 5
+want, food: 5
+i, dont: 4
+i, thai: 4
+want, thai: 4
+dont, food: 3
+no, i: 2
+no, want: 2
+no, food: 2
+i, chinese: 2
+i, i: 2
+dont, chinese: 2
+dont, i: 2
+dont, thai: 2
+want, chinese: 2
+want, i: 2
+want, want: 2
+chinese, i: 2
+chinese, want: 2
+chinese, thai: 2
+chinese, food: 2
+thai, food: 2
+
+Combinations of 1 Words ------------------------------
+wrong: 11
+want: 7
+i: 6
+food: 5
+dont: 5
+not: 4
+that: 2
+no: 2
+chinese: 2
+thai: 2

@@ -1,0 +1,1879 @@
+confirm ==================================================
+
+Combinations of 5 Words ------------------------------
+is, in, the, of, town: 28
+is, the, part, of, town: 22
+is, it, in, the, of: 22
+is, it, the, of, town: 22
+is, it, in, the, town: 21
+is, it, in, of, town: 21
+it, in, the, of, town: 21
+is, in, the, part, of: 18
+is, in, the, part, town: 17
+is, in, part, of, town: 17
+in, the, part, of, town: 17
+is, it, the, part, of: 15
+is, it, in, the, part: 14
+is, it, in, part, of: 14
+is, it, the, part, town: 14
+is, it, part, of, town: 14
+it, in, the, part, of: 14
+it, the, part, of, town: 14
+is, it, in, part, town: 13
+it, in, the, part, town: 13
+it, in, part, of, town: 13
+is, the, north, part, of: 11
+is, the, north, of, town: 11
+is, north, part, of, town: 11
+the, north, part, of, town: 11
+is, the, north, part, town: 10
+is, in, the, north, of: 9
+is, in, the, north, part: 8
+is, in, the, north, town: 8
+is, in, north, part, of: 8
+is, in, north, of, town: 8
+in, the, north, part, of: 8
+in, the, north, of, town: 8
+is, it, in, the, center: 8
+is, in, north, part, town: 7
+in, the, north, part, town: 7
+in, north, part, of, town: 7
+is, that, part, of, town: 6
+that, the, part, of, town: 6
+that, north, part, of, town: 6
+is, it, in, the, north: 6
+is, it, in, north, of: 6
+is, it, the, north, of: 6
+it, in, the, north, of: 6
+is, in, the, center, of: 6
+is, in, the, center, town: 6
+is, in, center, of, town: 6
+is, the, center, of, town: 6
+in, the, center, of, town: 6
+is, in, the, west, of: 6
+is, in, the, west, town: 6
+is, in, west, of, town: 6
+is, the, west, of, town: 6
+in, the, west, of, town: 6
+is, the, south, part, of: 6
+is, the, south, part, town: 6
+is, the, south, of, town: 6
+is, south, part, of, town: 6
+the, south, part, of, town: 6
+is, that, the, part, of: 5
+is, that, the, part, town: 5
+is, that, the, of, town: 5
+is, that, north, part, of: 5
+is, that, north, part, town: 5
+is, that, north, of, town: 5
+that, the, north, part, of: 5
+that, the, north, part, town: 5
+that, the, north, of, town: 5
+is, it, in, north, part: 5
+is, it, in, north, town: 5
+is, it, the, north, part: 5
+is, it, the, north, town: 5
+is, it, north, part, of: 5
+is, it, north, of, town: 5
+it, in, the, north, part: 5
+it, in, the, north, town: 5
+it, in, north, part, of: 5
+it, in, north, of, town: 5
+it, the, north, part, of: 5
+it, the, north, of, town: 5
+is, it, in, center, of: 5
+is, it, in, center, town: 5
+is, it, the, center, of: 5
+is, it, the, center, town: 5
+is, it, center, of, town: 5
+it, in, the, center, of: 5
+it, in, the, center, town: 5
+it, in, center, of, town: 5
+it, the, center, of, town: 5
+is, in, the, south, part: 5
+is, in, the, south, of: 5
+is, in, the, south, town: 5
+is, in, south, part, of: 5
+is, in, south, part, town: 5
+is, in, south, of, town: 5
+in, the, south, part, of: 5
+in, the, south, part, town: 5
+in, the, south, of, town: 5
+in, south, part, of, town: 5
+is, there, a, restaurant, in: 5
+is, there, a, restaurant, the: 5
+is, there, a, restaurant, of: 5
+is, there, a, restaurant, town: 5
+is, there, a, in, the: 5
+is, there, a, in, of: 5
+is, there, a, in, town: 5
+is, there, a, the, of: 5
+is, there, a, the, town: 5
+is, there, a, of, town: 5
+is, there, restaurant, in, the: 5
+is, there, restaurant, in, of: 5
+is, there, restaurant, in, town: 5
+is, there, restaurant, the, of: 5
+is, there, restaurant, the, town: 5
+is, there, restaurant, of, town: 5
+is, there, in, the, of: 5
+is, there, in, the, town: 5
+is, there, in, of, town: 5
+is, there, the, of, town: 5
+is, a, restaurant, in, the: 5
+is, a, restaurant, in, of: 5
+is, a, restaurant, in, town: 5
+is, a, restaurant, the, of: 5
+is, a, restaurant, the, town: 5
+is, a, restaurant, of, town: 5
+is, a, in, the, of: 5
+is, a, in, the, town: 5
+is, a, in, of, town: 5
+is, a, the, of, town: 5
+is, restaurant, in, the, of: 5
+is, restaurant, in, the, town: 5
+is, restaurant, in, of, town: 5
+is, restaurant, the, of, town: 5
+there, a, restaurant, in, the: 5
+there, a, restaurant, in, of: 5
+there, a, restaurant, in, town: 5
+there, a, restaurant, the, of: 5
+there, a, restaurant, the, town: 5
+there, a, restaurant, of, town: 5
+there, a, in, the, of: 5
+there, a, in, the, town: 5
+there, a, in, of, town: 5
+there, a, the, of, town: 5
+there, restaurant, in, the, of: 5
+there, restaurant, in, the, town: 5
+there, restaurant, in, of, town: 5
+there, restaurant, the, of, town: 5
+there, in, the, of, town: 5
+a, restaurant, in, the, of: 5
+a, restaurant, in, the, town: 5
+a, restaurant, in, of, town: 5
+a, restaurant, the, of, town: 5
+a, in, the, of, town: 5
+restaurant, in, the, of, town: 5
+is, that, the, north, part: 4
+is, that, the, north, of: 4
+is, that, the, north, town: 4
+does, it, serve, canapes, food: 4
+is, it, north, part, town: 4
+it, in, north, part, town: 4
+it, the, north, part, town: 4
+it, north, part, of, town: 4
+is, it, in, the, west: 4
+is, it, in, west, part: 4
+is, it, in, west, of: 4
+is, it, in, west, town: 4
+is, it, the, west, part: 4
+is, it, the, west, of: 4
+is, it, the, west, town: 4
+is, it, west, part, of: 4
+is, it, west, part, town: 4
+is, it, west, of, town: 4
+is, in, the, west, part: 4
+is, in, west, part, of: 4
+is, in, west, part, town: 4
+is, the, west, part, of: 4
+is, the, west, part, town: 4
+is, west, part, of, town: 4
+it, in, the, west, part: 4
+it, in, the, west, of: 4
+it, in, the, west, town: 4
+it, in, west, part, of: 4
+it, in, west, part, town: 4
+it, in, west, of, town: 4
+it, the, west, part, of: 4
+it, the, west, part, town: 4
+it, the, west, of, town: 4
+it, west, part, of, town: 4
+in, the, west, part, of: 4
+in, the, west, part, town: 4
+in, west, part, of, town: 4
+the, west, part, of, town: 4
+is, it, in, the, south: 4
+is, it, in, south, part: 4
+is, it, in, south, of: 4
+is, it, in, south, town: 4
+is, it, the, south, part: 4
+is, it, the, south, of: 4
+is, it, the, south, town: 4
+is, it, south, part, of: 4
+is, it, south, part, town: 4
+is, it, south, of, town: 4
+it, in, the, south, part: 4
+it, in, the, south, of: 4
+it, in, the, south, town: 4
+it, in, south, part, of: 4
+it, in, south, part, town: 4
+it, in, south, of, town: 4
+it, the, south, part, of: 4
+it, the, south, part, town: 4
+it, the, south, of, town: 4
+it, south, part, of, town: 4
+does, it, serve, thai, food: 3
+is, there, a, that, food: 3
+okay, is, in, the, of: 3
+okay, is, in, the, town: 3
+okay, is, in, of, town: 3
+okay, is, the, of, town: 3
+okay, in, the, of, town: 3
+is, it, the, east, of: 3
+is, it, the, east, town: 3
+is, it, east, of, town: 3
+is, the, east, of, town: 3
+it, the, east, of, town: 3
+is, it, in, the, price: 3
+is, it, in, the, range: 3
+is, it, in, price, range: 3
+is, it, the, price, range: 3
+is, in, the, price, range: 3
+it, in, the, price, range: 3
+does, it, serve, chinese, food: 3
+does, it, serve, type, food: 3
+does, it, serve, fusion, food: 2
+is, that, in, the, north: 2
+is, that, in, the, part: 2
+is, that, in, the, of: 2
+is, that, in, the, town: 2
+is, that, in, north, part: 2
+is, that, in, north, of: 2
+is, that, in, north, town: 2
+is, that, in, part, of: 2
+is, that, in, part, town: 2
+is, that, in, of, town: 2
+that, in, the, north, part: 2
+that, in, the, north, of: 2
+that, in, the, north, town: 2
+that, in, the, part, of: 2
+that, in, the, part, town: 2
+that, in, the, of, town: 2
+that, in, north, part, of: 2
+that, in, north, part, town: 2
+that, in, north, of, town: 2
+that, in, part, of, town: 2
+does, it, serve, kitalian, food: 2
+is, there, a, restaurant, that: 2
+is, there, a, restaurant, serves: 2
+is, there, a, restaurant, food: 2
+is, there, a, that, serves: 2
+is, there, a, that, vietnamese: 2
+is, there, a, serves, food: 2
+is, there, a, vietnamese, food: 2
+is, there, restaurant, that, serves: 2
+is, there, restaurant, that, food: 2
+is, there, restaurant, serves, food: 2
+is, there, that, serves, food: 2
+is, there, that, vietnamese, food: 2
+is, a, restaurant, that, serves: 2
+is, a, restaurant, that, food: 2
+is, a, restaurant, serves, food: 2
+is, a, that, serves, food: 2
+is, a, that, vietnamese, food: 2
+is, restaurant, that, serves, food: 2
+there, a, restaurant, that, serves: 2
+there, a, restaurant, that, food: 2
+there, a, restaurant, serves, food: 2
+there, a, that, serves, food: 2
+there, a, that, vietnamese, food: 2
+there, restaurant, that, serves, food: 2
+a, restaurant, that, serves, food: 2
+does, it, serve, spanish, food: 2
+does, it, serve, african, food: 2
+okay, is, it, in, the: 2
+okay, is, it, in, of: 2
+okay, is, it, in, town: 2
+okay, is, it, the, of: 2
+okay, is, it, the, town: 2
+okay, is, it, of, town: 2
+okay, is, in, the, north: 2
+okay, is, in, north, of: 2
+okay, is, in, north, town: 2
+okay, is, the, north, of: 2
+okay, is, the, north, town: 2
+okay, is, north, of, town: 2
+okay, it, in, the, of: 2
+okay, it, in, the, town: 2
+okay, it, in, of, town: 2
+okay, it, the, of, town: 2
+okay, in, the, north, of: 2
+okay, in, the, north, town: 2
+okay, in, north, of, town: 2
+okay, the, north, of, town: 2
+is, a, moderately, priced, restaurant: 2
+does, it, serve, hungarian, food: 2
+does, it, serve, korean, food: 2
+is, it, in, the, east: 2
+is, it, in, east, of: 2
+is, it, in, east, town: 2
+is, it, the, east, part: 2
+is, it, east, part, of: 2
+is, it, east, part, town: 2
+is, in, the, east, of: 2
+is, in, the, east, town: 2
+is, in, east, of, town: 2
+is, the, east, part, of: 2
+is, the, east, part, town: 2
+is, east, part, of, town: 2
+it, in, the, east, of: 2
+it, in, the, east, town: 2
+it, in, east, of, town: 2
+it, the, east, part, of: 2
+it, the, east, part, town: 2
+it, east, part, of, town: 2
+in, the, east, of, town: 2
+the, east, part, of, town: 2
+is, it, an, expensive, restaurant: 2
+is, it, in, the, moderate: 2
+is, it, in, moderate, price: 2
+is, it, in, moderate, range: 2
+is, it, the, moderate, price: 2
+is, it, the, moderate, range: 2
+is, it, moderate, price, range: 2
+is, in, the, moderate, price: 2
+is, in, the, moderate, range: 2
+is, in, moderate, price, range: 2
+is, the, moderate, price, range: 2
+it, in, the, moderate, price: 2
+it, in, the, moderate, range: 2
+it, in, moderate, price, range: 2
+it, the, moderate, price, range: 2
+in, the, moderate, price, range: 2
+is, there, a, restaurant, west: 2
+is, there, a, in, west: 2
+is, there, a, the, west: 2
+is, there, a, west, of: 2
+is, there, a, west, town: 2
+is, there, restaurant, in, west: 2
+is, there, restaurant, the, west: 2
+is, there, restaurant, west, of: 2
+is, there, restaurant, west, town: 2
+is, there, in, the, west: 2
+is, there, in, west, of: 2
+is, there, in, west, town: 2
+is, there, the, west, of: 2
+is, there, the, west, town: 2
+is, there, west, of, town: 2
+is, a, restaurant, in, west: 2
+is, a, restaurant, the, west: 2
+is, a, restaurant, west, of: 2
+is, a, restaurant, west, town: 2
+is, a, in, the, west: 2
+is, a, in, west, of: 2
+is, a, in, west, town: 2
+is, a, the, west, of: 2
+is, a, the, west, town: 2
+is, a, west, of, town: 2
+is, restaurant, in, the, west: 2
+is, restaurant, in, west, of: 2
+is, restaurant, in, west, town: 2
+is, restaurant, the, west, of: 2
+is, restaurant, the, west, town: 2
+is, restaurant, west, of, town: 2
+there, a, restaurant, in, west: 2
+there, a, restaurant, the, west: 2
+there, a, restaurant, west, of: 2
+there, a, restaurant, west, town: 2
+there, a, in, the, west: 2
+there, a, in, west, of: 2
+there, a, in, west, town: 2
+there, a, the, west, of: 2
+there, a, the, west, town: 2
+there, a, west, of, town: 2
+there, restaurant, in, the, west: 2
+there, restaurant, in, west, of: 2
+there, restaurant, in, west, town: 2
+there, restaurant, the, west, of: 2
+there, restaurant, the, west, town: 2
+there, restaurant, west, of, town: 2
+there, in, the, west, of: 2
+there, in, the, west, town: 2
+there, in, west, of, town: 2
+there, the, west, of, town: 2
+a, restaurant, in, the, west: 2
+a, restaurant, in, west, of: 2
+a, restaurant, in, west, town: 2
+a, restaurant, the, west, of: 2
+a, restaurant, the, west, town: 2
+a, restaurant, west, of, town: 2
+a, in, the, west, of: 2
+a, in, the, west, town: 2
+a, in, west, of, town: 2
+a, the, west, of, town: 2
+restaurant, in, the, west, of: 2
+restaurant, in, the, west, town: 2
+restaurant, in, west, of, town: 2
+restaurant, the, west, of, town: 2
+do, they, serve, unintelligible, food: 2
+okay, is, in, the, part: 2
+okay, is, in, part, of: 2
+okay, is, in, part, town: 2
+okay, is, the, part, of: 2
+okay, is, the, part, town: 2
+okay, is, part, of, town: 2
+okay, in, the, part, of: 2
+okay, in, the, part, town: 2
+okay, in, part, of, town: 2
+okay, the, part, of, town: 2
+is, there, a, chinese, restaurant: 2
+is, there, a, restaurant, part: 2
+is, there, a, in, part: 2
+is, there, a, the, part: 2
+is, there, a, part, of: 2
+is, there, a, part, town: 2
+is, there, restaurant, in, part: 2
+is, there, restaurant, the, part: 2
+is, there, restaurant, part, of: 2
+is, there, restaurant, part, town: 2
+is, there, in, the, part: 2
+is, there, in, part, of: 2
+is, there, in, part, town: 2
+is, there, the, part, of: 2
+is, there, the, part, town: 2
+is, there, part, of, town: 2
+is, a, restaurant, in, part: 2
+is, a, restaurant, the, part: 2
+is, a, restaurant, part, of: 2
+is, a, restaurant, part, town: 2
+is, a, in, the, part: 2
+is, a, in, part, of: 2
+is, a, in, part, town: 2
+is, a, the, part, of: 2
+is, a, the, part, town: 2
+is, a, part, of, town: 2
+is, restaurant, in, the, part: 2
+is, restaurant, in, part, of: 2
+is, restaurant, in, part, town: 2
+is, restaurant, the, part, of: 2
+is, restaurant, the, part, town: 2
+is, restaurant, part, of, town: 2
+there, a, restaurant, in, part: 2
+there, a, restaurant, the, part: 2
+there, a, restaurant, part, of: 2
+there, a, restaurant, part, town: 2
+there, a, in, the, part: 2
+there, a, in, part, of: 2
+there, a, in, part, town: 2
+there, a, the, part, of: 2
+there, a, the, part, town: 2
+there, a, part, of, town: 2
+there, restaurant, in, the, part: 2
+there, restaurant, in, part, of: 2
+there, restaurant, in, part, town: 2
+there, restaurant, the, part, of: 2
+there, restaurant, the, part, town: 2
+there, restaurant, part, of, town: 2
+there, in, the, part, of: 2
+there, in, the, part, town: 2
+there, in, part, of, town: 2
+there, the, part, of, town: 2
+a, restaurant, in, the, part: 2
+a, restaurant, in, part, of: 2
+a, restaurant, in, part, town: 2
+a, restaurant, the, part, of: 2
+a, restaurant, the, part, town: 2
+a, restaurant, part, of, town: 2
+a, in, the, part, of: 2
+a, in, the, part, town: 2
+a, in, part, of, town: 2
+a, the, part, of, town: 2
+restaurant, in, the, part, of: 2
+restaurant, in, the, part, town: 2
+restaurant, in, part, of, town: 2
+restaurant, the, part, of, town: 2
+does, it, serve, type, of: 2
+does, it, serve, of, food: 2
+does, it, type, of, food: 2
+does, serve, type, of, food: 2
+it, serve, type, of, food: 2
+is, there, a, thai, restaurant: 2
+does, it, serve, indian, food: 2
+
+Combinations of 4 Words ------------------------------
+does, it, serve, food: 38
+is, the, of, town: 32
+is, in, the, of: 29
+is, in, the, town: 28
+is, in, of, town: 28
+in, the, of, town: 28
+is, it, in, the: 28
+is, it, the, of: 23
+is, the, part, of: 22
+is, part, of, town: 22
+the, part, of, town: 22
+is, it, in, of: 22
+is, it, the, town: 22
+is, it, of, town: 22
+it, in, the, of: 22
+it, the, of, town: 22
+is, the, part, town: 21
+is, it, in, town: 21
+it, in, the, town: 21
+it, in, of, town: 21
+is, in, the, part: 18
+is, in, part, of: 18
+in, the, part, of: 18
+is, in, part, town: 17
+in, the, part, town: 17
+in, part, of, town: 17
+is, it, the, part: 15
+is, it, part, of: 15
+it, the, part, of: 15
+is, it, in, part: 14
+is, it, part, town: 14
+it, in, the, part: 14
+it, in, part, of: 14
+it, the, part, town: 14
+it, part, of, town: 14
+it, in, part, town: 13
+is, there, a, restaurant: 12
+is, the, north, of: 11
+is, north, part, of: 11
+is, north, of, town: 11
+the, north, part, of: 11
+the, north, of, town: 11
+north, part, of, town: 11
+is, the, north, part: 10
+is, the, north, town: 10
+is, north, part, town: 10
+the, north, part, town: 10
+is, in, the, center: 10
+is, it, moderately, priced: 10
+is, in, the, north: 9
+is, in, north, of: 9
+in, the, north, of: 9
+is, in, north, part: 8
+is, in, north, town: 8
+in, the, north, part: 8
+in, the, north, town: 8
+in, north, part, of: 8
+in, north, of, town: 8
+is, it, in, center: 8
+is, it, the, center: 8
+it, in, the, center: 8
+in, north, part, town: 7
+do, they, serve, food: 7
+that, part, of, town: 6
+is, it, in, north: 6
+is, it, the, north: 6
+is, it, north, of: 6
+it, in, the, north: 6
+it, in, north, of: 6
+it, the, north, of: 6
+is, in, center, of: 6
+is, in, center, town: 6
+is, the, center, of: 6
+is, the, center, town: 6
+is, center, of, town: 6
+in, the, center, of: 6
+in, the, center, town: 6
+in, center, of, town: 6
+the, center, of, town: 6
+is, in, the, west: 6
+is, in, west, of: 6
+is, in, west, town: 6
+is, the, west, of: 6
+is, the, west, town: 6
+is, west, of, town: 6
+in, the, west, of: 6
+in, the, west, town: 6
+in, west, of, town: 6
+the, west, of, town: 6
+is, the, south, part: 6
+is, the, south, of: 6
+is, the, south, town: 6
+is, south, part, of: 6
+is, south, part, town: 6
+is, south, of, town: 6
+the, south, part, of: 6
+the, south, part, town: 6
+the, south, of, town: 6
+south, part, of, town: 6
+is, that, part, of: 5
+is, that, part, town: 5
+is, that, of, town: 5
+that, the, part, of: 5
+that, the, part, town: 5
+that, the, of, town: 5
+that, north, part, of: 5
+that, north, part, town: 5
+that, north, of, town: 5
+does, it, serve, canapes: 5
+is, it, north, part: 5
+is, it, north, town: 5
+it, in, north, part: 5
+it, in, north, town: 5
+it, the, north, part: 5
+it, the, north, town: 5
+it, north, part, of: 5
+it, north, of, town: 5
+is, there, a, food: 5
+is, it, center, of: 5
+is, it, center, town: 5
+it, in, center, of: 5
+it, in, center, town: 5
+it, the, center, of: 5
+it, the, center, town: 5
+it, center, of, town: 5
+is, in, the, south: 5
+is, in, south, part: 5
+is, in, south, of: 5
+is, in, south, town: 5
+in, the, south, part: 5
+in, the, south, of: 5
+in, the, south, town: 5
+in, south, part, of: 5
+in, south, part, town: 5
+in, south, of, town: 5
+is, there, a, in: 5
+is, there, a, the: 5
+is, there, a, of: 5
+is, there, a, town: 5
+is, there, restaurant, in: 5
+is, there, restaurant, the: 5
+is, there, restaurant, of: 5
+is, there, restaurant, town: 5
+is, there, in, the: 5
+is, there, in, of: 5
+is, there, in, town: 5
+is, there, the, of: 5
+is, there, the, town: 5
+is, there, of, town: 5
+is, a, restaurant, in: 5
+is, a, restaurant, the: 5
+is, a, restaurant, of: 5
+is, a, restaurant, town: 5
+is, a, in, the: 5
+is, a, in, of: 5
+is, a, in, town: 5
+is, a, the, of: 5
+is, a, the, town: 5
+is, a, of, town: 5
+is, restaurant, in, the: 5
+is, restaurant, in, of: 5
+is, restaurant, in, town: 5
+is, restaurant, the, of: 5
+is, restaurant, the, town: 5
+is, restaurant, of, town: 5
+there, a, restaurant, in: 5
+there, a, restaurant, the: 5
+there, a, restaurant, of: 5
+there, a, restaurant, town: 5
+there, a, in, the: 5
+there, a, in, of: 5
+there, a, in, town: 5
+there, a, the, of: 5
+there, a, the, town: 5
+there, a, of, town: 5
+there, restaurant, in, the: 5
+there, restaurant, in, of: 5
+there, restaurant, in, town: 5
+there, restaurant, the, of: 5
+there, restaurant, the, town: 5
+there, restaurant, of, town: 5
+there, in, the, of: 5
+there, in, the, town: 5
+there, in, of, town: 5
+there, the, of, town: 5
+a, restaurant, in, the: 5
+a, restaurant, in, of: 5
+a, restaurant, in, town: 5
+a, restaurant, the, of: 5
+a, restaurant, the, town: 5
+a, restaurant, of, town: 5
+a, in, the, of: 5
+a, in, the, town: 5
+a, in, of, town: 5
+a, the, of, town: 5
+restaurant, in, the, of: 5
+restaurant, in, the, town: 5
+restaurant, in, of, town: 5
+restaurant, the, of, town: 5
+is, that, the, part: 4
+is, that, the, of: 4
+is, that, the, town: 4
+is, that, north, part: 4
+is, that, north, of: 4
+is, that, north, town: 4
+that, the, north, part: 4
+that, the, north, of: 4
+that, the, north, town: 4
+does, it, canapes, food: 4
+does, serve, canapes, food: 4
+it, serve, canapes, food: 4
+it, north, part, town: 4
+is, it, in, west: 4
+is, it, the, west: 4
+is, it, west, part: 4
+is, it, west, of: 4
+is, it, west, town: 4
+is, in, west, part: 4
+is, the, west, part: 4
+is, west, part, of: 4
+is, west, part, town: 4
+it, in, the, west: 4
+it, in, west, part: 4
+it, in, west, of: 4
+it, in, west, town: 4
+it, the, west, part: 4
+it, the, west, of: 4
+it, the, west, town: 4
+it, west, part, of: 4
+it, west, part, town: 4
+it, west, of, town: 4
+in, the, west, part: 4
+in, west, part, of: 4
+in, west, part, town: 4
+the, west, part, of: 4
+the, west, part, town: 4
+west, part, of, town: 4
+is, it, in, south: 4
+is, it, the, south: 4
+is, it, south, part: 4
+is, it, south, of: 4
+is, it, south, town: 4
+it, in, the, south: 4
+it, in, south, part: 4
+it, in, south, of: 4
+it, in, south, town: 4
+it, the, south, part: 4
+it, the, south, of: 4
+it, the, south, town: 4
+it, south, part, of: 4
+it, south, part, town: 4
+it, south, of, town: 4
+is, there, a, chinese: 4
+is, that, in, the: 3
+is, that, the, north: 3
+is, it, moderate, priced: 3
+does, it, serve, thai: 3
+does, it, thai, food: 3
+does, serve, thai, food: 3
+it, serve, thai, food: 3
+is, there, a, that: 3
+is, there, a, vietnamese: 3
+is, there, that, food: 3
+is, a, that, food: 3
+there, a, that, food: 3
+does, it, serve, african: 3
+okay, is, in, the: 3
+okay, is, in, of: 3
+okay, is, in, town: 3
+okay, is, the, of: 3
+okay, is, the, town: 3
+okay, is, of, town: 3
+okay, in, the, of: 3
+okay, in, the, town: 3
+okay, in, of, town: 3
+okay, the, of, town: 3
+does, it, serve, korean: 3
+is, it, the, east: 3
+is, it, east, of: 3
+is, it, east, town: 3
+is, the, east, of: 3
+is, the, east, town: 3
+is, east, of, town: 3
+it, the, east, of: 3
+it, the, east, town: 3
+it, east, of, town: 3
+the, east, of, town: 3
+is, an, expensive, restaurant: 3
+is, it, in, price: 3
+is, it, in, range: 3
+is, it, the, price: 3
+is, it, the, range: 3
+is, it, price, range: 3
+is, in, the, price: 3
+is, in, the, range: 3
+is, in, price, range: 3
+is, the, price, range: 3
+it, in, the, price: 3
+it, in, the, range: 3
+it, in, price, range: 3
+it, the, price, range: 3
+in, the, price, range: 3
+does, it, serve, chinese: 3
+does, it, chinese, food: 3
+does, serve, chinese, food: 3
+it, serve, chinese, food: 3
+does, it, serve, type: 3
+does, it, type, food: 3
+does, serve, type, food: 3
+it, serve, type, food: 3
+does, it, serve, fusion: 2
+does, it, fusion, food: 2
+does, serve, fusion, food: 2
+it, serve, fusion, food: 2
+is, that, in, north: 2
+is, that, in, part: 2
+is, that, in, of: 2
+is, that, in, town: 2
+that, in, the, north: 2
+that, in, the, part: 2
+that, in, the, of: 2
+that, in, the, town: 2
+that, in, north, part: 2
+that, in, north, of: 2
+that, in, north, town: 2
+that, in, part, of: 2
+that, in, part, town: 2
+that, in, of, town: 2
+does, it, serve, kitalian: 2
+does, it, kitalian, food: 2
+does, serve, kitalian, food: 2
+it, serve, kitalian, food: 2
+is, it, chinese, food: 2
+is, there, a, serves: 2
+is, there, restaurant, that: 2
+is, there, restaurant, serves: 2
+is, there, restaurant, food: 2
+is, there, that, serves: 2
+is, there, that, vietnamese: 2
+is, there, serves, food: 2
+is, there, vietnamese, food: 2
+is, a, cheap, restaurant: 2
+is, a, restaurant, that: 2
+is, a, restaurant, serves: 2
+is, a, restaurant, food: 2
+is, a, that, serves: 2
+is, a, that, vietnamese: 2
+is, a, serves, food: 2
+is, a, vietnamese, food: 2
+is, restaurant, that, serves: 2
+is, restaurant, that, food: 2
+is, restaurant, serves, food: 2
+is, that, serves, food: 2
+is, that, vietnamese, food: 2
+there, a, restaurant, that: 2
+there, a, restaurant, serves: 2
+there, a, restaurant, food: 2
+there, a, that, serves: 2
+there, a, that, vietnamese: 2
+there, a, serves, food: 2
+there, a, vietnamese, food: 2
+there, restaurant, that, serves: 2
+there, restaurant, that, food: 2
+there, restaurant, serves, food: 2
+there, that, serves, food: 2
+there, that, vietnamese, food: 2
+a, restaurant, that, serves: 2
+a, restaurant, that, food: 2
+a, restaurant, serves, food: 2
+a, that, serves, food: 2
+a, that, vietnamese, food: 2
+restaurant, that, serves, food: 2
+does, it, serve, spanish: 2
+does, it, spanish, food: 2
+does, serve, spanish, food: 2
+it, serve, spanish, food: 2
+is, it, serving, food: 2
+does, it, african, food: 2
+does, serve, african, food: 2
+it, serve, african, food: 2
+okay, is, it, in: 2
+okay, is, it, the: 2
+okay, is, it, of: 2
+okay, is, it, town: 2
+okay, is, in, north: 2
+okay, is, the, north: 2
+okay, is, north, of: 2
+okay, is, north, town: 2
+okay, it, in, the: 2
+okay, it, in, of: 2
+okay, it, in, town: 2
+okay, it, the, of: 2
+okay, it, the, town: 2
+okay, it, of, town: 2
+okay, in, the, north: 2
+okay, in, north, of: 2
+okay, in, north, town: 2
+okay, the, north, of: 2
+okay, the, north, town: 2
+okay, north, of, town: 2
+is, there, a, british: 2
+is, a, moderately, priced: 2
+is, a, moderately, restaurant: 2
+is, a, priced, restaurant: 2
+is, moderately, priced, restaurant: 2
+is, that, british, food: 2
+a, moderately, priced, restaurant: 2
+does, it, serve, hungarian: 2
+does, it, hungarian, food: 2
+does, serve, hungarian, food: 2
+it, serve, hungarian, food: 2
+does, it, serve, gastropub: 2
+does, it, korean, food: 2
+does, serve, korean, food: 2
+it, serve, korean, food: 2
+is, it, in, east: 2
+is, it, east, part: 2
+is, in, the, east: 2
+is, in, east, of: 2
+is, in, east, town: 2
+is, the, east, part: 2
+is, east, part, of: 2
+is, east, part, town: 2
+it, in, the, east: 2
+it, in, east, of: 2
+it, in, east, town: 2
+it, the, east, part: 2
+it, east, part, of: 2
+it, east, part, town: 2
+in, the, east, of: 2
+in, the, east, town: 2
+in, east, of, town: 2
+the, east, part, of: 2
+the, east, part, town: 2
+east, part, of, town: 2
+is, it, an, expensive: 2
+is, it, an, restaurant: 2
+is, it, expensive, restaurant: 2
+it, an, expensive, restaurant: 2
+is, it, in, moderate: 2
+is, it, the, moderate: 2
+is, it, moderate, price: 2
+is, it, moderate, range: 2
+is, in, the, moderate: 2
+is, in, moderate, price: 2
+is, in, moderate, range: 2
+is, the, moderate, price: 2
+is, the, moderate, range: 2
+is, moderate, price, range: 2
+it, in, the, moderate: 2
+it, in, moderate, price: 2
+it, in, moderate, range: 2
+it, the, moderate, price: 2
+it, the, moderate, range: 2
+it, moderate, price, range: 2
+in, the, moderate, price: 2
+in, the, moderate, range: 2
+in, moderate, price, range: 2
+the, moderate, price, range: 2
+do, they, turkish, food: 2
+is, there, a, west: 2
+is, there, restaurant, west: 2
+is, there, in, west: 2
+is, there, the, west: 2
+is, there, west, of: 2
+is, there, west, town: 2
+is, a, restaurant, west: 2
+is, a, in, west: 2
+is, a, the, west: 2
+is, a, west, of: 2
+is, a, west, town: 2
+is, restaurant, in, west: 2
+is, restaurant, the, west: 2
+is, restaurant, west, of: 2
+is, restaurant, west, town: 2
+there, a, restaurant, west: 2
+there, a, in, west: 2
+there, a, the, west: 2
+there, a, west, of: 2
+there, a, west, town: 2
+there, restaurant, in, west: 2
+there, restaurant, the, west: 2
+there, restaurant, west, of: 2
+there, restaurant, west, town: 2
+there, in, the, west: 2
+there, in, west, of: 2
+there, in, west, town: 2
+there, the, west, of: 2
+there, the, west, town: 2
+there, west, of, town: 2
+a, restaurant, in, west: 2
+a, restaurant, the, west: 2
+a, restaurant, west, of: 2
+a, restaurant, west, town: 2
+a, in, the, west: 2
+a, in, west, of: 2
+a, in, west, town: 2
+a, the, west, of: 2
+a, the, west, town: 2
+a, west, of, town: 2
+restaurant, in, the, west: 2
+restaurant, in, west, of: 2
+restaurant, in, west, town: 2
+restaurant, the, west, of: 2
+restaurant, the, west, town: 2
+restaurant, west, of, town: 2
+do, they, serve, unintelligible: 2
+do, they, unintelligible, food: 2
+do, serve, unintelligible, food: 2
+they, serve, unintelligible, food: 2
+okay, is, in, part: 2
+okay, is, the, part: 2
+okay, is, part, of: 2
+okay, is, part, town: 2
+okay, in, the, part: 2
+okay, in, part, of: 2
+okay, in, part, town: 2
+okay, the, part, of: 2
+okay, the, part, town: 2
+okay, part, of, town: 2
+is, there, a, part: 2
+is, there, chinese, restaurant: 2
+is, there, restaurant, part: 2
+is, there, in, part: 2
+is, there, the, part: 2
+is, there, part, of: 2
+is, there, part, town: 2
+is, a, chinese, restaurant: 2
+is, a, restaurant, part: 2
+is, a, in, part: 2
+is, a, the, part: 2
+is, a, part, of: 2
+is, a, part, town: 2
+is, restaurant, in, part: 2
+is, restaurant, the, part: 2
+is, restaurant, part, of: 2
+is, restaurant, part, town: 2
+there, a, chinese, restaurant: 2
+there, a, restaurant, part: 2
+there, a, in, part: 2
+there, a, the, part: 2
+there, a, part, of: 2
+there, a, part, town: 2
+there, restaurant, in, part: 2
+there, restaurant, the, part: 2
+there, restaurant, part, of: 2
+there, restaurant, part, town: 2
+there, in, the, part: 2
+there, in, part, of: 2
+there, in, part, town: 2
+there, the, part, of: 2
+there, the, part, town: 2
+there, part, of, town: 2
+a, restaurant, in, part: 2
+a, restaurant, the, part: 2
+a, restaurant, part, of: 2
+a, restaurant, part, town: 2
+a, in, the, part: 2
+a, in, part, of: 2
+a, in, part, town: 2
+a, the, part, of: 2
+a, the, part, town: 2
+a, part, of, town: 2
+restaurant, in, the, part: 2
+restaurant, in, part, of: 2
+restaurant, in, part, town: 2
+restaurant, the, part, of: 2
+restaurant, the, part, town: 2
+restaurant, part, of, town: 2
+does, it, serve, of: 2
+does, it, type, of: 2
+does, it, of, food: 2
+does, serve, type, of: 2
+does, serve, of, food: 2
+does, type, of, food: 2
+it, serve, type, of: 2
+it, serve, of, food: 2
+it, type, of, food: 2
+serve, type, of, food: 2
+is, there, a, thai: 2
+is, there, thai, restaurant: 2
+is, a, thai, restaurant: 2
+there, a, thai, restaurant: 2
+does, it, serve, indian: 2
+does, it, indian, food: 2
+does, serve, indian, food: 2
+it, serve, indian, food: 2
+
+Combinations of 3 Words ------------------------------
+does, it, serve: 47
+does, it, food: 38
+does, serve, food: 38
+it, serve, food: 38
+is, in, the: 36
+is, the, of: 32
+is, of, town: 32
+the, of, town: 32
+is, the, town: 31
+is, in, of: 29
+in, the, of: 29
+is, it, the: 29
+is, in, town: 28
+in, the, town: 28
+in, of, town: 28
+is, it, in: 28
+it, in, the: 28
+is, it, of: 23
+it, the, of: 23
+is, part, of: 22
+the, part, of: 22
+part, of, town: 22
+is, it, town: 22
+it, in, of: 22
+it, the, town: 22
+it, of, town: 22
+is, the, part: 21
+is, part, town: 21
+the, part, town: 21
+it, in, town: 21
+is, in, part: 18
+in, the, part: 18
+in, part, of: 18
+is, there, a: 18
+in, part, town: 17
+is, it, part: 15
+it, the, part: 15
+it, part, of: 15
+it, in, part: 14
+it, part, town: 14
+is, a, restaurant: 14
+is, it, priced: 13
+is, moderately, priced: 13
+is, there, restaurant: 12
+there, a, restaurant: 12
+is, north, of: 11
+the, north, of: 11
+north, part, of: 11
+north, of, town: 11
+is, it, moderately: 11
+is, the, north: 10
+is, north, part: 10
+is, north, town: 10
+the, north, part: 10
+the, north, town: 10
+north, part, town: 10
+is, in, center: 10
+is, the, center: 10
+in, the, center: 10
+it, moderately, priced: 10
+is, in, north: 9
+in, the, north: 9
+in, north, of: 9
+in, north, part: 8
+in, north, town: 8
+do, they, serve: 8
+do, they, food: 8
+is, it, expensive: 8
+is, it, center: 8
+it, in, center: 8
+it, the, center: 8
+is, it, food: 7
+do, serve, food: 7
+they, serve, food: 7
+is, it, moderate: 6
+is, it, north: 6
+it, in, north: 6
+it, the, north: 6
+it, north, of: 6
+is, that, food: 6
+is, center, of: 6
+is, center, town: 6
+in, center, of: 6
+in, center, town: 6
+the, center, of: 6
+the, center, town: 6
+center, of, town: 6
+is, in, west: 6
+is, the, west: 6
+is, west, of: 6
+is, west, town: 6
+in, the, west: 6
+in, west, of: 6
+in, west, town: 6
+the, west, of: 6
+the, west, town: 6
+west, of, town: 6
+is, the, south: 6
+is, south, part: 6
+is, south, of: 6
+is, south, town: 6
+the, south, part: 6
+the, south, of: 6
+the, south, town: 6
+south, part, of: 6
+south, part, town: 6
+south, of, town: 6
+is, that, of: 5
+that, part, of: 5
+that, part, town: 5
+that, of, town: 5
+it, chinese, food: 5
+does, it, canapes: 5
+does, serve, canapes: 5
+it, serve, canapes: 5
+it, north, part: 5
+it, north, town: 5
+is, there, food: 5
+is, a, food: 5
+there, a, food: 5
+it, center, of: 5
+it, center, town: 5
+is, in, south: 5
+in, the, south: 5
+in, south, part: 5
+in, south, of: 5
+in, south, town: 5
+is, it, cheap: 5
+is, there, in: 5
+is, there, the: 5
+is, there, of: 5
+is, there, town: 5
+is, a, in: 5
+is, a, the: 5
+is, a, of: 5
+is, a, town: 5
+is, restaurant, in: 5
+is, restaurant, the: 5
+is, restaurant, of: 5
+is, restaurant, town: 5
+there, a, in: 5
+there, a, the: 5
+there, a, of: 5
+there, a, town: 5
+there, restaurant, in: 5
+there, restaurant, the: 5
+there, restaurant, of: 5
+there, restaurant, town: 5
+there, in, the: 5
+there, in, of: 5
+there, in, town: 5
+there, the, of: 5
+there, the, town: 5
+there, of, town: 5
+a, restaurant, in: 5
+a, restaurant, the: 5
+a, restaurant, of: 5
+a, restaurant, town: 5
+a, in, the: 5
+a, in, of: 5
+a, in, town: 5
+a, the, of: 5
+a, the, town: 5
+a, of, town: 5
+restaurant, in, the: 5
+restaurant, in, of: 5
+restaurant, in, town: 5
+restaurant, the, of: 5
+restaurant, the, town: 5
+restaurant, of, town: 5
+is, that, the: 4
+is, that, part: 4
+is, that, town: 4
+that, the, part: 4
+that, the, of: 4
+that, the, town: 4
+that, north, part: 4
+that, north, of: 4
+that, north, town: 4
+does, canapes, food: 4
+it, canapes, food: 4
+serve, canapes, food: 4
+it, thai, food: 4
+is, it, west: 4
+is, west, part: 4
+it, in, west: 4
+it, the, west: 4
+it, west, part: 4
+it, west, of: 4
+it, west, town: 4
+in, west, part: 4
+the, west, part: 4
+west, part, of: 4
+west, part, town: 4
+is, it, south: 4
+it, in, south: 4
+it, the, south: 4
+it, south, part: 4
+it, south, of: 4
+it, south, town: 4
+is, there, chinese: 4
+is, a, chinese: 4
+there, a, chinese: 4
+serve, chinese, food: 4
+is, that, in: 3
+is, that, north: 3
+that, in, the: 3
+that, the, north: 3
+is, chinese, food: 3
+is, moderate, priced: 3
+it, moderate, priced: 3
+does, it, thai: 3
+does, serve, thai: 3
+does, thai, food: 3
+it, serve, thai: 3
+serve, thai, food: 3
+is, there, that: 3
+is, there, vietnamese: 3
+is, a, that: 3
+is, a, vietnamese: 3
+is, vietnamese, food: 3
+there, a, that: 3
+there, a, vietnamese: 3
+there, that, food: 3
+a, that, food: 3
+does, it, african: 3
+does, serve, african: 3
+it, serve, african: 3
+okay, is, it: 3
+okay, is, in: 3
+okay, is, the: 3
+okay, is, of: 3
+okay, is, town: 3
+okay, in, the: 3
+okay, in, of: 3
+okay, in, town: 3
+okay, the, of: 3
+okay, the, town: 3
+okay, of, town: 3
+does, it, korean: 3
+does, serve, korean: 3
+it, serve, korean: 3
+it, hungarian, food: 3
+serve, korean, food: 3
+is, it, east: 3
+is, the, east: 3
+is, east, of: 3
+is, east, town: 3
+it, the, east: 3
+it, east, of: 3
+it, east, town: 3
+the, east, of: 3
+the, east, town: 3
+east, of, town: 3
+is, an, expensive: 3
+is, an, restaurant: 3
+is, expensive, restaurant: 3
+an, expensive, restaurant: 3
+is, it, price: 3
+is, it, range: 3
+is, in, price: 3
+is, in, range: 3
+is, the, price: 3
+is, the, range: 3
+is, price, range: 3
+it, in, price: 3
+it, in, range: 3
+it, the, price: 3
+it, the, range: 3
+it, price, range: 3
+in, the, price: 3
+in, the, range: 3
+in, price, range: 3
+the, price, range: 3
+does, it, chinese: 3
+does, serve, chinese: 3
+does, chinese, food: 3
+it, serve, chinese: 3
+type, of, food: 3
+does, it, type: 3
+does, serve, type: 3
+does, type, food: 3
+it, serve, type: 3
+it, type, food: 3
+serve, type, food: 3
+does, it, fusion: 2
+does, serve, fusion: 2
+does, fusion, food: 2
+it, serve, fusion: 2
+it, fusion, food: 2
+serve, fusion, food: 2
+that, in, north: 2
+that, in, part: 2
+that, in, of: 2
+that, in, town: 2
+does, it, kitalian: 2
+does, serve, kitalian: 2
+does, kitalian, food: 2
+it, serve, kitalian: 2
+it, kitalian, food: 2
+serve, kitalian, food: 2
+is, it, chinese: 2
+is, there, serves: 2
+is, a, cheap: 2
+is, a, serves: 2
+is, cheap, restaurant: 2
+is, restaurant, that: 2
+is, restaurant, serves: 2
+is, restaurant, food: 2
+is, that, serves: 2
+is, that, vietnamese: 2
+is, serves, food: 2
+there, a, serves: 2
+there, restaurant, that: 2
+there, restaurant, serves: 2
+there, restaurant, food: 2
+there, that, serves: 2
+there, that, vietnamese: 2
+there, serves, food: 2
+there, vietnamese, food: 2
+a, cheap, restaurant: 2
+a, restaurant, that: 2
+a, restaurant, serves: 2
+a, restaurant, food: 2
+a, that, serves: 2
+a, that, vietnamese: 2
+a, serves, food: 2
+a, vietnamese, food: 2
+restaurant, that, serves: 2
+restaurant, that, food: 2
+restaurant, serves, food: 2
+that, serves, food: 2
+that, vietnamese, food: 2
+does, it, spanish: 2
+does, serve, spanish: 2
+does, spanish, food: 2
+it, serve, spanish: 2
+it, spanish, food: 2
+serve, spanish, food: 2
+is, it, serving: 2
+is, serving, food: 2
+it, serving, food: 2
+does, african, food: 2
+it, african, food: 2
+serve, african, food: 2
+okay, is, north: 2
+okay, it, in: 2
+okay, it, the: 2
+okay, it, of: 2
+okay, it, town: 2
+okay, in, north: 2
+okay, the, north: 2
+okay, north, of: 2
+okay, north, town: 2
+is, there, british: 2
+is, a, moderately: 2
+is, a, priced: 2
+is, a, british: 2
+is, moderately, restaurant: 2
+is, priced, restaurant: 2
+is, that, british: 2
+is, british, food: 2
+there, a, british: 2
+a, moderately, priced: 2
+a, moderately, restaurant: 2
+a, priced, restaurant: 2
+moderately, priced, restaurant: 2
+that, british, food: 2
+is, it, hungarian: 2
+does, it, hungarian: 2
+does, serve, hungarian: 2
+does, hungarian, food: 2
+it, serve, hungarian: 2
+serve, hungarian, food: 2
+does, it, gastropub: 2
+does, serve, gastropub: 2
+it, serve, gastropub: 2
+does, korean, food: 2
+it, korean, food: 2
+is, in, east: 2
+is, east, part: 2
+it, in, east: 2
+it, east, part: 2
+in, the, east: 2
+in, east, of: 2
+in, east, town: 2
+the, east, part: 2
+east, part, of: 2
+east, part, town: 2
+is, it, an: 2
+is, it, restaurant: 2
+it, an, expensive: 2
+it, an, restaurant: 2
+it, expensive, restaurant: 2
+is, in, moderate: 2
+is, the, moderate: 2
+is, moderate, price: 2
+is, moderate, range: 2
+it, in, moderate: 2
+it, the, moderate: 2
+it, moderate, price: 2
+it, moderate, range: 2
+in, the, moderate: 2
+in, moderate, price: 2
+in, moderate, range: 2
+the, moderate, price: 2
+the, moderate, range: 2
+moderate, price, range: 2
+do, they, turkish: 2
+do, turkish, food: 2
+they, turkish, food: 2
+serve, turkish, food: 2
+is, there, west: 2
+is, a, west: 2
+is, restaurant, west: 2
+there, a, west: 2
+there, restaurant, west: 2
+there, in, west: 2
+there, the, west: 2
+there, west, of: 2
+there, west, town: 2
+a, restaurant, west: 2
+a, in, west: 2
+a, the, west: 2
+a, west, of: 2
+a, west, town: 2
+restaurant, in, west: 2
+restaurant, the, west: 2
+restaurant, west, of: 2
+restaurant, west, town: 2
+do, they, unintelligible: 2
+do, serve, unintelligible: 2
+do, unintelligible, food: 2
+they, serve, unintelligible: 2
+they, unintelligible, food: 2
+serve, unintelligible, food: 2
+okay, is, restaurant: 2
+okay, is, part: 2
+okay, in, part: 2
+okay, the, part: 2
+okay, part, of: 2
+okay, part, town: 2
+is, there, part: 2
+is, a, part: 2
+is, chinese, restaurant: 2
+is, restaurant, part: 2
+there, a, part: 2
+there, chinese, restaurant: 2
+there, restaurant, part: 2
+there, in, part: 2
+there, the, part: 2
+there, part, of: 2
+there, part, town: 2
+a, chinese, restaurant: 2
+a, restaurant, part: 2
+a, in, part: 2
+a, the, part: 2
+a, part, of: 2
+a, part, town: 2
+restaurant, in, part: 2
+restaurant, the, part: 2
+restaurant, part, of: 2
+restaurant, part, town: 2
+is, that, restaurant: 2
+serve, vietnamese, food: 2
+does, it, of: 2
+does, serve, of: 2
+does, type, of: 2
+does, of, food: 2
+it, serve, of: 2
+it, type, of: 2
+it, of, food: 2
+serve, type, of: 2
+serve, of, food: 2
+is, there, thai: 2
+is, a, thai: 2
+is, thai, restaurant: 2
+there, a, thai: 2
+there, thai, restaurant: 2
+a, thai, restaurant: 2
+it, vietnamese, food: 2
+does, it, indian: 2
+does, serve, indian: 2
+does, indian, food: 2
+it, serve, indian: 2
+it, indian, food: 2
+serve, indian, food: 2
+okay, is, that: 2
+
+Combinations of 2 Words ------------------------------
+is, it: 65
+does, serve: 47
+it, serve: 47
+does, it: 46
+serve, food: 46
+it, food: 45
+does, food: 38
+is, the: 38
+is, in: 36
+in, the: 36
+is, of: 33
+the, of: 32
+of, town: 32
+is, town: 31
+the, town: 31
+in, of: 29
+it, the: 29
+in, town: 28
+it, in: 28
+it, of: 25
+part, of: 22
+it, town: 22
+is, part: 21
+the, part: 21
+part, town: 21
+is, a: 20
+in, part: 18
+is, there: 18
+there, a: 18
+is, restaurant: 17
+is, priced: 16
+is, food: 15
+it, part: 15
+is, that: 14
+a, restaurant: 14
+is, moderately: 14
+it, priced: 13
+moderately, priced: 13
+there, restaurant: 12
+north, of: 11
+it, moderately: 11
+is, north: 10
+the, north: 10
+north, part: 10
+north, town: 10
+is, center: 10
+in, center: 10
+the, center: 10
+in, north: 9
+do, they: 9
+is, expensive: 9
+do, serve: 8
+do, food: 8
+they, serve: 8
+they, food: 8
+it, expensive: 8
+it, center: 8
+chinese, food: 7
+is, cheap: 7
+is, chinese: 6
+is, moderate: 6
+it, moderate: 6
+it, north: 6
+that, food: 6
+okay, is: 6
+center, of: 6
+center, town: 6
+is, west: 6
+in, west: 6
+the, west: 6
+west, of: 6
+west, town: 6
+is, south: 6
+the, south: 6
+south, part: 6
+south, of: 6
+south, town: 6
+it, cheap: 6
+that, of: 5
+it, chinese: 5
+does, canapes: 5
+it, canapes: 5
+serve, canapes: 5
+there, food: 5
+a, food: 5
+in, south: 5
+there, in: 5
+there, the: 5
+there, of: 5
+there, town: 5
+a, in: 5
+a, the: 5
+a, of: 5
+a, town: 5
+restaurant, in: 5
+restaurant, the: 5
+restaurant, of: 5
+restaurant, town: 5
+that, the: 4
+that, part: 4
+that, town: 4
+canapes, food: 4
+it, thai: 4
+thai, food: 4
+is, vietnamese: 4
+vietnamese, food: 4
+okay, it: 4
+serve, korean: 4
+it, hungarian: 4
+it, west: 4
+west, part: 4
+it, south: 4
+there, chinese: 4
+a, chinese: 4
+serve, chinese: 4
+type, food: 4
+that, in: 3
+that, north: 3
+moderate, priced: 3
+does, thai: 3
+serve, thai: 3
+there, that: 3
+there, vietnamese: 3
+a, that: 3
+a, vietnamese: 3
+does, african: 3
+it, african: 3
+serve, african: 3
+is, thai: 3
+okay, in: 3
+okay, the: 3
+okay, of: 3
+okay, town: 3
+is, british: 3
+does, korean: 3
+it, korean: 3
+hungarian, food: 3
+korean, food: 3
+is, east: 3
+it, east: 3
+the, east: 3
+east, of: 3
+east, town: 3
+is, an: 3
+an, expensive: 3
+an, restaurant: 3
+expensive, restaurant: 3
+is, price: 3
+is, range: 3
+it, price: 3
+it, range: 3
+in, price: 3
+in, range: 3
+the, price: 3
+the, range: 3
+price, range: 3
+turkish, food: 3
+does, chinese: 3
+type, of: 3
+of, food: 3
+does, type: 3
+it, type: 3
+serve, type: 3
+does, fusion: 2
+it, fusion: 2
+serve, fusion: 2
+fusion, food: 2
+does, kitalian: 2
+it, kitalian: 2
+serve, kitalian: 2
+kitalian, food: 2
+is, serves: 2
+there, serves: 2
+a, cheap: 2
+a, serves: 2
+cheap, restaurant: 2
+cheap, food: 2
+restaurant, that: 2
+restaurant, serves: 2
+restaurant, food: 2
+that, serves: 2
+that, vietnamese: 2
+serves, food: 2
+does, spanish: 2
+it, spanish: 2
+serve, spanish: 2
+spanish, food: 2
+is, serving: 2
+it, serving: 2
+serving, food: 2
+african, food: 2
+okay, north: 2
+there, british: 2
+a, moderately: 2
+a, priced: 2
+a, british: 2
+moderately, restaurant: 2
+priced, restaurant: 2
+that, british: 2
+british, food: 2
+is, hungarian: 2
+does, hungarian: 2
+serve, hungarian: 2
+does, gastropub: 2
+it, gastropub: 2
+serve, gastropub: 2
+and, is: 2
+in, east: 2
+east, part: 2
+it, an: 2
+it, restaurant: 2
+in, moderate: 2
+the, moderate: 2
+moderate, price: 2
+moderate, range: 2
+do, turkish: 2
+they, turkish: 2
+serve, turkish: 2
+there, west: 2
+a, west: 2
+restaurant, west: 2
+do, unintelligible: 2
+they, unintelligible: 2
+serve, unintelligible: 2
+unintelligible, food: 2
+okay, restaurant: 2
+okay, part: 2
+there, part: 2
+a, part: 2
+chinese, restaurant: 2
+chinese, of: 2
+restaurant, part: 2
+that, restaurant: 2
+serve, vietnamese: 2
+asian, oriental: 2
+does, of: 2
+serve, of: 2
+there, thai: 2
+a, thai: 2
+thai, restaurant: 2
+it, vietnamese: 2
+it, european: 2
+okay, food: 2
+does, indian: 2
+it, indian: 2
+serve, indian: 2
+indian, food: 2
+okay, that: 2
+serve, cuban: 2
+is, portuguese: 2
+
+Combinations of 1 Words ------------------------------
+it: 111
+is: 95
+food: 61
+serve: 56
+does: 46
+the: 38
+in: 36
+of: 35
+town: 31
+part: 21
+a: 20
+there: 18
+restaurant: 17
+priced: 16
+that: 14
+moderately: 14
+north: 10
+chinese: 10
+center: 10
+do: 9
+they: 9
+expensive: 9
+cheap: 8
+okay: 7
+moderate: 6
+thai: 6
+west: 6
+south: 6
+canapes: 5
+vietnamese: 5
+korean: 5
+hungarian: 4
+type: 4
+african: 3
+british: 3
+gastropub: 3
+east: 3
+an: 3
+price: 3
+range: 3
+turkish: 3
+indian: 3
+fusion: 2
+kitalian: 2
+serves: 2
+spanish: 2
+serving: 2
+and: 2
+unintelligible: 2
+asian: 2
+oriental: 2
+european: 2
+cuban: 2
+portuguese: 2

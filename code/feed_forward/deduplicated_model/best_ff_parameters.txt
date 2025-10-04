@@ -1,0 +1,9 @@
+units1: 304
+activation1: relu
+dropout1: 0.4
+units2: 480
+activation2: tanh
+dropout2: 0.0
+units3: 32
+activation3: relu
+learning_rate: 0.001

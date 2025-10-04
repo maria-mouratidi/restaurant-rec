@@ -1,0 +1,40 @@
+repeat ==================================================
+
+Combinations of 5 Words ------------------------------
+
+Combinations of 4 Words ------------------------------
+can, you, repeat, that: 4
+could, you, repeat, that: 3
+
+Combinations of 3 Words ------------------------------
+you, repeat, that: 7
+can, you, repeat: 4
+can, you, that: 4
+can, repeat, that: 4
+could, you, repeat: 3
+could, you, that: 3
+could, repeat, that: 3
+
+Combinations of 2 Words ------------------------------
+repeat, that: 10
+you, repeat: 7
+you, that: 7
+go, back: 4
+can, you: 4
+can, repeat: 4
+can, that: 4
+could, you: 3
+could, repeat: 3
+could, that: 3
+again, please: 2
+
+Combinations of 1 Words ------------------------------
+repeat: 18
+that: 10
+back: 8
+you: 7
+again: 4
+go: 4
+can: 4
+please: 3
+could: 3

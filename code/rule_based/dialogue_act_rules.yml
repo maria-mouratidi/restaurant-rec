@@ -1,0 +1,74 @@
+ack:
+  - must_have: ['okay']
+    must_not_have: ['thank', 'you', 'bye']
+    optional: ['me','the','um']
+affirm:
+  - must_have: ['yes']
+  - must_have: ['yea']
+  - must_have: ['right']
+bye:
+  - must_have: ['bye']
+    optional: ['good']
+    must_not_have: ['thank', 'you', 'thanks']
+confirm:
+  - must_have: ['is', 'it']
+  - must_have: ['does', 'it']
+deny:
+  - must_have: ['wrong']
+  - must_have: ['dont', 'want']
+hello:
+  - must_have: ['hi']
+  - must_have: ['hello']
+  - must_have: ['hey']
+inform:
+  - must_have: ['of', 'town']
+    optional: ['part', 'the', 'in']
+  - must_have: ['looking', 'for']
+    optional: ['restaurant', 'im']
+  - must_have: ['restaurant', 'in']
+    optional: ['restaurant']
+  - must_have: ['i', 'dont']
+    optional: ['care']
+  - must_have: ['it', 'doesnt']
+negate:
+  - must_have: ['no']
+    optional: ['in', 'im', 'looking']
+repeat:
+  - must_have: ['repeat']
+    optional: ['can', 'you']
+  - must_have: ['back']
+    optional: ['go']
+reqalts:
+  - must_have: ['is', 'there']
+  - must_have: ['how', 'about']
+  - must_have: ['what', 'about']
+  - must_have: ['else']
+    optional: ['anything', 'what']
+reqmore:
+  - must_have: ['more']
+request:
+  - must_have: ['what', 'is']
+    optional: ['phone', 'number', 'address', 'price']
+  - must_have: ['whats', 'the']
+    optional: ['phone', 'number', 'address', 'price']
+  - must_have: ['can', 'i']
+  - must_have: ['may', 'i']
+  - must_have: ['could', 'i']
+  - must_have: ['phone', 'number']
+  - must_have: ['address']
+  - must_have: ['price']
+restart:
+  - must_have: ['start', 'over']
+  - must_have: ['reset']
+thankyou:
+  - must_have: ['thank', 'you']
+    optional: ['okay', 'thatll', 'do', 'great']
+  - must_have: ['thatll', 'do']
+    optional: ['okay']
+no_act:
+  - must_have: ['um']
+  - must_have: ['unintelligible']
+  - must_have: ['cough']
+  - must_have: ['noise']
+  - must_have: ['uh']
+  - must_have: ['sil']

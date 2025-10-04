@@ -1,0 +1,12 @@
+reqmore ==================================================
+
+Combinations of 5 Words ------------------------------
+
+Combinations of 4 Words ------------------------------
+
+Combinations of 3 Words ------------------------------
+
+Combinations of 2 Words ------------------------------
+
+Combinations of 1 Words ------------------------------
+more: 4

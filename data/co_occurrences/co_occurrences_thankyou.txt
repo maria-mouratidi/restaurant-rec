@@ -1,0 +1,502 @@
+thankyou ==================================================
+
+Combinations of 5 Words ------------------------------
+okay, thank, you, good, bye: 57
+thank, you, and, good, bye: 9
+uh, thank, you, good, bye: 9
+um, thank, you, good, bye: 4
+and, thank, you, good, bye: 3
+noise, thank, you, good, bye: 3
+okay, uh, thank, you, and: 3
+okay, thank, you, and, good: 3
+okay, thank, you, and, bye: 3
+okay, thank, and, good, bye: 3
+okay, you, and, good, bye: 3
+i, think, thatll, do, it: 2
+i, think, thatll, do, thank: 2
+i, think, thatll, do, you: 2
+i, think, thatll, it, thank: 2
+i, think, thatll, it, you: 2
+i, think, thatll, thank, you: 2
+i, think, do, it, thank: 2
+i, think, do, it, you: 2
+i, think, do, thank, you: 2
+i, think, it, thank, you: 2
+i, thatll, do, it, thank: 2
+i, thatll, do, it, you: 2
+i, thatll, do, thank, you: 2
+i, thatll, it, thank, you: 2
+i, do, it, thank, you: 2
+think, thatll, do, it, thank: 2
+think, thatll, do, it, you: 2
+think, thatll, do, thank, you: 2
+think, thatll, it, thank, you: 2
+think, do, it, thank, you: 2
+thatll, do, it, thank, you: 2
+thats, all, thank, you, good: 2
+thats, all, thank, you, bye: 2
+thats, all, thank, good, bye: 2
+thats, all, you, good, bye: 2
+thats, thank, you, good, bye: 2
+all, thank, you, good, bye: 2
+okay, thank, you, and, goodbye: 2
+okay, uh, thank, you, good: 2
+okay, uh, thank, you, bye: 2
+okay, uh, thank, and, good: 2
+okay, uh, thank, and, bye: 2
+okay, uh, thank, good, bye: 2
+okay, uh, you, and, good: 2
+okay, uh, you, and, bye: 2
+okay, uh, you, good, bye: 2
+okay, uh, and, good, bye: 2
+uh, thank, you, and, good: 2
+uh, thank, you, and, bye: 2
+uh, thank, and, good, bye: 2
+uh, you, and, good, bye: 2
+thank, you, very, much, bye: 2
+and, thank, you, and, good: 2
+and, thank, you, and, bye: 2
+and, thank, and, good, bye: 2
+and, you, and, good, bye: 2
+great, thank, you, good, bye: 2
+uh, thank, you, and, goodbye: 2
+thank, you, thank, you, goodbye: 2
+
+Combinations of 4 Words ------------------------------
+thank, you, good, bye: 2279
+okay, thank, you, bye: 59
+okay, thank, you, good: 57
+okay, thank, good, bye: 57
+okay, you, good, bye: 57
+thank, you, and, good: 9
+thank, you, and, bye: 9
+thank, and, good, bye: 9
+you, and, good, bye: 9
+okay, thank, you, goodbye: 9
+uh, thank, you, good: 9
+uh, thank, you, bye: 9
+uh, thank, good, bye: 9
+uh, you, good, bye: 9
+noise, thank, you, goodbye: 7
+thank, you, goodbye, noise: 7
+okay, thank, you, and: 5
+breath, thank, you, goodbye: 5
+okay, uh, thank, you: 4
+okay, and, good, bye: 4
+uh, thank, you, and: 4
+um, thank, you, good: 4
+um, thank, you, bye: 4
+um, thank, good, bye: 4
+um, you, good, bye: 4
+good, bye, thank, you: 4
+and, thank, you, good: 3
+and, thank, you, bye: 3
+and, thank, good, bye: 3
+and, you, good, bye: 3
+i, thank, you, goodbye: 3
+thank, you, and, goodbye: 3
+noise, thank, you, good: 3
+noise, thank, you, bye: 3
+noise, thank, good, bye: 3
+noise, you, good, bye: 3
+um, thank, you, goodbye: 3
+thank, you, thank, you: 3
+okay, uh, thank, and: 3
+okay, uh, you, and: 3
+okay, uh, good, bye: 3
+okay, thank, and, good: 3
+okay, thank, and, bye: 3
+okay, you, and, good: 3
+okay, you, and, bye: 3
+thank, you, very, much: 3
+i, think, thatll, do: 2
+i, think, thatll, it: 2
+i, think, thatll, thank: 2
+i, think, thatll, you: 2
+i, think, do, it: 2
+i, think, do, thank: 2
+i, think, do, you: 2
+i, think, it, thank: 2
+i, think, it, you: 2
+i, think, thank, you: 2
+i, thatll, do, it: 2
+i, thatll, do, thank: 2
+i, thatll, do, you: 2
+i, thatll, it, thank: 2
+i, thatll, it, you: 2
+i, thatll, thank, you: 2
+i, do, it, thank: 2
+i, do, it, you: 2
+i, do, thank, you: 2
+i, it, thank, you: 2
+think, thatll, do, it: 2
+think, thatll, do, thank: 2
+think, thatll, do, you: 2
+think, thatll, it, thank: 2
+think, thatll, it, you: 2
+think, thatll, thank, you: 2
+think, do, it, thank: 2
+think, do, it, you: 2
+think, do, thank, you: 2
+think, it, thank, you: 2
+thatll, do, it, thank: 2
+thatll, do, it, you: 2
+thatll, do, thank, you: 2
+thatll, it, thank, you: 2
+do, it, thank, you: 2
+thats, all, thank, you: 2
+thats, all, thank, good: 2
+thats, all, thank, bye: 2
+thats, all, you, good: 2
+thats, all, you, bye: 2
+thats, all, good, bye: 2
+thats, thank, you, good: 2
+thats, thank, you, bye: 2
+thats, thank, good, bye: 2
+thats, you, good, bye: 2
+all, thank, you, good: 2
+all, thank, you, bye: 2
+all, thank, good, bye: 2
+all, you, good, bye: 2
+okay, thank, and, goodbye: 2
+okay, you, and, goodbye: 2
+ah, thank, you, goodbye: 2
+alright, thank, you, bye: 2
+okay, uh, thank, good: 2
+okay, uh, thank, bye: 2
+okay, uh, you, good: 2
+okay, uh, you, bye: 2
+okay, uh, and, good: 2
+okay, uh, and, bye: 2
+uh, thank, and, good: 2
+uh, thank, and, bye: 2
+uh, you, and, good: 2
+uh, you, and, bye: 2
+uh, and, good, bye: 2
+thank, you, very, bye: 2
+thank, you, much, bye: 2
+thank, very, much, bye: 2
+you, very, much, bye: 2
+oh, thank, you, goodbye: 2
+and, thank, you, and: 2
+and, thank, and, good: 2
+and, thank, and, bye: 2
+and, you, and, good: 2
+and, you, and, bye: 2
+and, and, good, bye: 2
+great, thank, you, good: 2
+great, thank, you, bye: 2
+great, thank, good, bye: 2
+great, you, good, bye: 2
+uh, thank, you, goodbye: 2
+uh, thank, and, goodbye: 2
+uh, you, and, goodbye: 2
+thank, you, thank, goodbye: 2
+thank, you, you, goodbye: 2
+thank, thank, you, goodbye: 2
+you, thank, you, goodbye: 2
+
+Combinations of 3 Words ------------------------------
+thank, you, bye: 2290
+thank, you, good: 2285
+thank, good, bye: 2279
+you, good, bye: 2279
+thank, you, goodbye: 358
+okay, thank, you: 75
+okay, thank, bye: 59
+okay, you, bye: 59
+okay, good, bye: 58
+okay, thank, good: 57
+okay, you, good: 57
+thank, you, and: 13
+uh, thank, you: 13
+and, good, bye: 12
+noise, thank, you: 10
+uh, good, bye: 10
+thank, and, good: 9
+thank, and, bye: 9
+you, and, good: 9
+you, and, bye: 9
+okay, thank, goodbye: 9
+okay, you, goodbye: 9
+uh, thank, good: 9
+uh, thank, bye: 9
+uh, you, good: 9
+uh, you, bye: 9
+thank, you, noise: 8
+noise, thank, goodbye: 7
+noise, you, goodbye: 7
+thank, goodbye, noise: 7
+you, goodbye, noise: 7
+um, thank, you: 7
+i, thank, you: 5
+okay, thank, and: 5
+okay, you, and: 5
+alright, thank, you: 5
+breath, thank, you: 5
+breath, thank, goodbye: 5
+breath, you, goodbye: 5
+okay, uh, thank: 4
+okay, uh, you: 4
+okay, and, good: 4
+okay, and, bye: 4
+uh, thank, and: 4
+uh, you, and: 4
+um, thank, good: 4
+um, thank, bye: 4
+um, you, good: 4
+um, you, bye: 4
+um, good, bye: 4
+good, bye, thank: 4
+good, bye, you: 4
+good, thank, you: 4
+bye, thank, you: 4
+and, thank, you: 3
+and, thank, good: 3
+and, thank, bye: 3
+and, you, good: 3
+and, you, bye: 3
+thats, thank, you: 3
+i, thank, goodbye: 3
+i, you, goodbye: 3
+thank, and, goodbye: 3
+you, and, goodbye: 3
+noise, thank, good: 3
+noise, thank, bye: 3
+noise, you, good: 3
+noise, you, bye: 3
+noise, good, bye: 3
+um, thank, goodbye: 3
+um, you, goodbye: 3
+thank, you, thank: 3
+thank, you, you: 3
+thank, thank, you: 3
+you, thank, you: 3
+okay, uh, and: 3
+okay, uh, good: 3
+okay, uh, bye: 3
+thank, you, very: 3
+thank, you, much: 3
+thank, very, much: 3
+you, very, much: 3
+oh, thank, you: 3
+i, think, thatll: 2
+i, think, do: 2
+i, think, it: 2
+i, think, thank: 2
+i, think, you: 2
+i, thatll, do: 2
+i, thatll, it: 2
+i, thatll, thank: 2
+i, thatll, you: 2
+i, do, it: 2
+i, do, thank: 2
+i, do, you: 2
+i, it, thank: 2
+i, it, you: 2
+think, thatll, do: 2
+think, thatll, it: 2
+think, thatll, thank: 2
+think, thatll, you: 2
+think, do, it: 2
+think, do, thank: 2
+think, do, you: 2
+think, it, thank: 2
+think, it, you: 2
+think, thank, you: 2
+thatll, do, it: 2
+thatll, do, thank: 2
+thatll, do, you: 2
+thatll, it, thank: 2
+thatll, it, you: 2
+thatll, thank, you: 2
+do, it, thank: 2
+do, it, you: 2
+do, thank, you: 2
+it, thank, you: 2
+thats, all, thank: 2
+thats, all, you: 2
+thats, all, good: 2
+thats, all, bye: 2
+thats, thank, good: 2
+thats, thank, bye: 2
+thats, you, good: 2
+thats, you, bye: 2
+thats, good, bye: 2
+all, thank, you: 2
+all, thank, good: 2
+all, thank, bye: 2
+all, you, good: 2
+all, you, bye: 2
+all, good, bye: 2
+okay, and, goodbye: 2
+ah, thank, you: 2
+ah, thank, goodbye: 2
+ah, you, goodbye: 2
+alright, thank, bye: 2
+alright, you, bye: 2
+im, thank, you: 2
+uh, and, good: 2
+uh, and, bye: 2
+thank, very, bye: 2
+thank, much, bye: 2
+you, very, bye: 2
+you, much, bye: 2
+very, much, bye: 2
+oh, thank, goodbye: 2
+oh, you, goodbye: 2
+and, thank, and: 2
+and, you, and: 2
+and, and, good: 2
+and, and, bye: 2
+great, thank, you: 2
+great, thank, good: 2
+great, thank, bye: 2
+great, you, good: 2
+great, you, bye: 2
+great, good, bye: 2
+uh, thank, goodbye: 2
+uh, you, goodbye: 2
+uh, and, goodbye: 2
+thank, thank, goodbye: 2
+you, thank, goodbye: 2
+you, you, goodbye: 2
+goodbye, thank, you: 2
+
+Combinations of 2 Words ------------------------------
+thank, you: 2782
+thank, bye: 2290
+you, bye: 2290
+thank, good: 2285
+you, good: 2285
+good, bye: 2283
+thank, goodbye: 356
+you, goodbye: 356
+okay, thank: 76
+okay, you: 75
+okay, bye: 60
+okay, good: 58
+thank, and: 13
+you, and: 13
+uh, thank: 13
+uh, you: 13
+and, good: 12
+and, bye: 12
+noise, thank: 10
+noise, you: 10
+uh, good: 10
+uh, bye: 10
+okay, goodbye: 9
+thank, noise: 8
+you, noise: 8
+noise, goodbye: 7
+goodbye, noise: 7
+um, thank: 7
+um, you: 7
+okay, and: 6
+i, thank: 5
+i, you: 5
+alright, thank: 5
+alright, you: 5
+breath, thank: 5
+breath, you: 5
+breath, goodbye: 5
+thank, thank: 4
+okay, uh: 4
+uh, and: 4
+um, good: 4
+um, bye: 4
+good, thank: 4
+good, you: 4
+bye, thank: 4
+bye, you: 4
+and, thank: 3
+and, you: 3
+thats, thank: 3
+thats, you: 3
+i, goodbye: 3
+and, goodbye: 3
+noise, good: 3
+noise, bye: 3
+um, goodbye: 3
+you, thank: 3
+you, you: 3
+thank, very: 3
+thank, much: 3
+you, very: 3
+you, much: 3
+very, much: 3
+oh, thank: 3
+oh, you: 3
+i, think: 2
+i, thatll: 2
+i, do: 2
+i, it: 2
+think, thatll: 2
+think, do: 2
+think, it: 2
+think, thank: 2
+think, you: 2
+thatll, do: 2
+thatll, it: 2
+thatll, thank: 2
+thatll, you: 2
+do, it: 2
+do, thank: 2
+do, you: 2
+it, thank: 2
+it, you: 2
+thats, all: 2
+thats, good: 2
+thats, bye: 2
+all, thank: 2
+all, you: 2
+all, good: 2
+all, bye: 2
+ah, thank: 2
+ah, you: 2
+ah, goodbye: 2
+alright, bye: 2
+im, thank: 2
+im, you: 2
+very, bye: 2
+much, bye: 2
+oh, goodbye: 2
+and, and: 2
+great, thank: 2
+great, you: 2
+great, good: 2
+great, bye: 2
+uh, goodbye: 2
+thanks, bye: 2
+goodbye, thank: 2
+goodbye, you: 2
+thanks, goodbye: 2
+
+Combinations of 1 Words ------------------------------
+thank: 2785
+you: 2779
+bye: 2296
+good: 2289
+goodbye: 357
+okay: 76
+noise: 17
+and: 16
+uh: 13
+um: 7
+i: 5
+alright: 5
+breath: 5
+thats: 4
+thanks: 4
+it: 3
+very: 3
+much: 3
+oh: 3
+think: 2
+thatll: 2
+do: 2
+all: 2
+ah: 2
+im: 2
+great: 2

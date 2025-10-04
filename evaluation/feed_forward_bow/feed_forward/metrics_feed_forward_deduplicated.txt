@@ -1,0 +1,28 @@
+Top-2 Accuracy: 0.9763681592039801
+
+Accuracy: 0.9191542288557214
+Cohen's Kappa: 0.873852823466368
+Matthews Correlation Coefficient: 0.8740231580668345
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         ack      1.000     0.000     0.000         3
+      affirm      1.000     0.875     0.933        24
+         bye      1.000     0.778     0.875         9
+     confirm      0.882     0.882     0.882        17
+        deny      1.000     0.000     0.000         1
+       hello      1.000     0.800     0.889         5
+      inform      0.939     0.957     0.948       447
+      negate      0.960     0.960     0.960        25
+      no_act      0.622     0.609     0.615        46
+      repeat      1.000     1.000     1.000         1
+     reqalts      0.873     0.896     0.885        77
+     request      0.949     0.963     0.956       135
+     restart      1.000     0.000     0.000         1
+    thankyou      1.000     0.923     0.960        13
+
+    accuracy                          0.919       804
+   macro avg      0.945     0.689     0.707       804
+weighted avg      0.920     0.919     0.916       804
+

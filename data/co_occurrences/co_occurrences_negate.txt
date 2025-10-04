@@ -1,0 +1,1542 @@
+negate ==================================================
+
+Combinations of 5 Words ------------------------------
+no, im, looking, for, food: 11
+no, thank, you, good, bye: 9
+no, in, the, of, town: 6
+no, im, looking, for, a: 5
+no, in, the, part, of: 5
+no, in, the, part, town: 5
+no, in, part, of, town: 5
+no, the, part, of, town: 5
+in, the, part, of, town: 5
+no, restaurant, in, the, part: 4
+no, restaurant, in, the, of: 4
+no, restaurant, in, the, town: 4
+no, restaurant, in, part, of: 4
+no, restaurant, in, part, town: 4
+no, restaurant, in, of, town: 4
+no, restaurant, the, part, of: 4
+no, restaurant, the, part, town: 4
+no, restaurant, the, of, town: 4
+no, restaurant, part, of, town: 4
+restaurant, in, the, part, of: 4
+restaurant, in, the, part, town: 4
+restaurant, in, the, of, town: 4
+restaurant, in, part, of, town: 4
+restaurant, the, part, of, town: 4
+no, im, looking, in, the: 4
+no, im, looking, the, town: 4
+no, im, in, the, town: 4
+no, looking, in, the, town: 4
+im, looking, in, the, town: 4
+no, im, looking, for, that: 3
+no, cheap, in, the, part: 3
+no, cheap, in, the, of: 3
+no, cheap, in, the, town: 3
+no, cheap, in, part, of: 3
+no, cheap, in, part, town: 3
+no, cheap, in, of, town: 3
+no, cheap, the, part, of: 3
+no, cheap, the, part, town: 3
+no, cheap, the, of, town: 3
+no, cheap, part, of, town: 3
+cheap, in, the, part, of: 3
+cheap, in, the, part, town: 3
+cheap, in, the, of, town: 3
+cheap, in, part, of, town: 3
+cheap, the, part, of, town: 3
+no, im, looking, for, restaurant: 3
+no, looking, for, a, restaurant: 3
+no, im, looking, for, asian: 3
+no, im, looking, for, thai: 3
+no, im, looking, thai, food: 3
+no, im, for, thai, food: 3
+no, looking, for, thai, food: 3
+im, looking, for, thai, food: 3
+no, im, looking, in, of: 3
+no, im, looking, in, town: 3
+no, im, looking, the, of: 3
+no, im, looking, of, town: 3
+no, im, in, the, of: 3
+no, im, in, of, town: 3
+no, im, the, of, town: 3
+no, looking, in, the, of: 3
+no, looking, in, of, town: 3
+no, looking, the, of, town: 3
+im, looking, in, the, of: 3
+im, looking, in, of, town: 3
+im, looking, the, of, town: 3
+im, in, the, of, town: 3
+looking, in, the, of, town: 3
+no, im, looking, for, unintelligible: 2
+no, im, looking, for, serves: 2
+no, im, looking, a, unintelligible: 2
+no, im, looking, a, that: 2
+no, im, looking, a, food: 2
+no, im, looking, unintelligible, food: 2
+no, im, looking, that, serves: 2
+no, im, looking, that, food: 2
+no, im, looking, serves, food: 2
+no, im, for, a, unintelligible: 2
+no, im, for, a, that: 2
+no, im, for, a, food: 2
+no, im, for, unintelligible, food: 2
+no, im, for, that, serves: 2
+no, im, for, that, food: 2
+no, im, for, serves, food: 2
+no, im, a, unintelligible, food: 2
+no, im, that, serves, food: 2
+no, looking, for, a, unintelligible: 2
+no, looking, for, a, that: 2
+no, looking, for, a, food: 2
+no, looking, for, unintelligible, food: 2
+no, looking, for, that, serves: 2
+no, looking, for, that, food: 2
+no, looking, for, serves, food: 2
+no, looking, a, unintelligible, food: 2
+no, looking, that, serves, food: 2
+no, for, a, unintelligible, food: 2
+no, for, that, serves, food: 2
+im, looking, for, a, unintelligible: 2
+im, looking, for, a, that: 2
+im, looking, for, a, food: 2
+im, looking, for, unintelligible, food: 2
+im, looking, for, that, serves: 2
+im, looking, for, that, food: 2
+im, looking, for, serves, food: 2
+im, looking, a, unintelligible, food: 2
+im, looking, that, serves, food: 2
+im, for, a, unintelligible, food: 2
+im, for, that, serves, food: 2
+looking, for, a, unintelligible, food: 2
+looking, for, that, serves, food: 2
+no, cheap, restaurant, in, the: 2
+no, cheap, restaurant, in, part: 2
+no, cheap, restaurant, in, of: 2
+no, cheap, restaurant, in, town: 2
+no, cheap, restaurant, the, part: 2
+no, cheap, restaurant, the, of: 2
+no, cheap, restaurant, the, town: 2
+no, cheap, restaurant, part, of: 2
+no, cheap, restaurant, part, town: 2
+no, cheap, restaurant, of, town: 2
+no, restaurant, in, the, west: 2
+no, restaurant, in, west, part: 2
+no, restaurant, in, west, of: 2
+no, restaurant, in, west, town: 2
+no, restaurant, the, west, part: 2
+no, restaurant, the, west, of: 2
+no, restaurant, the, west, town: 2
+no, restaurant, west, part, of: 2
+no, restaurant, west, part, town: 2
+no, restaurant, west, of, town: 2
+no, in, the, west, part: 2
+no, in, the, west, of: 2
+no, in, the, west, town: 2
+no, in, west, part, of: 2
+no, in, west, part, town: 2
+no, in, west, of, town: 2
+no, the, west, part, of: 2
+no, the, west, part, town: 2
+no, the, west, of, town: 2
+no, west, part, of, town: 2
+cheap, restaurant, in, the, part: 2
+cheap, restaurant, in, the, of: 2
+cheap, restaurant, in, the, town: 2
+cheap, restaurant, in, part, of: 2
+cheap, restaurant, in, part, town: 2
+cheap, restaurant, in, of, town: 2
+cheap, restaurant, the, part, of: 2
+cheap, restaurant, the, part, town: 2
+cheap, restaurant, the, of, town: 2
+cheap, restaurant, part, of, town: 2
+restaurant, in, the, west, part: 2
+restaurant, in, the, west, of: 2
+restaurant, in, the, west, town: 2
+restaurant, in, west, part, of: 2
+restaurant, in, west, part, town: 2
+restaurant, in, west, of, town: 2
+restaurant, the, west, part, of: 2
+restaurant, the, west, part, town: 2
+restaurant, the, west, of, town: 2
+restaurant, west, part, of, town: 2
+in, the, west, part, of: 2
+in, the, west, part, town: 2
+in, the, west, of, town: 2
+in, west, part, of, town: 2
+the, west, part, of, town: 2
+no, im, looking, a, restaurant: 2
+no, im, for, a, restaurant: 2
+im, looking, for, a, restaurant: 2
+no, im, looking, asian, food: 2
+no, im, for, asian, food: 2
+no, looking, for, asian, food: 2
+im, looking, for, asian, food: 2
+no, such, venue, how, about: 2
+no, such, venue, how, portuguese: 2
+no, such, venue, how, food: 2
+no, such, venue, about, portuguese: 2
+no, such, venue, about, food: 2
+no, such, venue, portuguese, food: 2
+no, such, how, about, portuguese: 2
+no, such, how, about, food: 2
+no, such, how, portuguese, food: 2
+no, such, about, portuguese, food: 2
+no, venue, how, about, portuguese: 2
+no, venue, how, about, food: 2
+no, venue, how, portuguese, food: 2
+no, venue, about, portuguese, food: 2
+no, how, about, portuguese, food: 2
+no, south, part, of, town: 2
+no, in, the, south, of: 2
+no, in, the, south, town: 2
+no, in, south, of, town: 2
+no, the, south, of, town: 2
+in, the, south, of, town: 2
+no, im, looking, for, in: 2
+no, im, looking, for, the: 2
+no, im, looking, for, east: 2
+no, im, looking, for, part: 2
+no, im, looking, for, of: 2
+no, im, looking, for, town: 2
+no, im, looking, in, east: 2
+no, im, looking, in, part: 2
+no, im, looking, the, east: 2
+no, im, looking, the, part: 2
+no, im, looking, east, part: 2
+no, im, looking, east, of: 2
+no, im, looking, east, town: 2
+no, im, looking, part, of: 2
+no, im, looking, part, town: 2
+no, im, for, in, the: 2
+no, im, for, in, east: 2
+no, im, for, in, part: 2
+no, im, for, in, of: 2
+no, im, for, in, town: 2
+no, im, for, the, east: 2
+no, im, for, the, part: 2
+no, im, for, the, of: 2
+no, im, for, the, town: 2
+no, im, for, east, part: 2
+no, im, for, east, of: 2
+no, im, for, east, town: 2
+no, im, for, part, of: 2
+no, im, for, part, town: 2
+no, im, for, of, town: 2
+no, im, in, the, east: 2
+no, im, in, the, part: 2
+no, im, in, east, part: 2
+no, im, in, east, of: 2
+no, im, in, east, town: 2
+no, im, in, part, of: 2
+no, im, in, part, town: 2
+no, im, the, east, part: 2
+no, im, the, east, of: 2
+no, im, the, east, town: 2
+no, im, the, part, of: 2
+no, im, the, part, town: 2
+no, im, east, part, of: 2
+no, im, east, part, town: 2
+no, im, east, of, town: 2
+no, im, part, of, town: 2
+no, looking, for, in, the: 2
+no, looking, for, in, east: 2
+no, looking, for, in, part: 2
+no, looking, for, in, of: 2
+no, looking, for, in, town: 2
+no, looking, for, the, east: 2
+no, looking, for, the, part: 2
+no, looking, for, the, of: 2
+no, looking, for, the, town: 2
+no, looking, for, east, part: 2
+no, looking, for, east, of: 2
+no, looking, for, east, town: 2
+no, looking, for, part, of: 2
+no, looking, for, part, town: 2
+no, looking, for, of, town: 2
+no, looking, in, the, east: 2
+no, looking, in, the, part: 2
+no, looking, in, east, part: 2
+no, looking, in, east, of: 2
+no, looking, in, east, town: 2
+no, looking, in, part, of: 2
+no, looking, in, part, town: 2
+no, looking, the, east, part: 2
+no, looking, the, east, of: 2
+no, looking, the, east, town: 2
+no, looking, the, part, of: 2
+no, looking, the, part, town: 2
+no, looking, east, part, of: 2
+no, looking, east, part, town: 2
+no, looking, east, of, town: 2
+no, looking, part, of, town: 2
+no, for, in, the, east: 2
+no, for, in, the, part: 2
+no, for, in, the, of: 2
+no, for, in, the, town: 2
+no, for, in, east, part: 2
+no, for, in, east, of: 2
+no, for, in, east, town: 2
+no, for, in, part, of: 2
+no, for, in, part, town: 2
+no, for, in, of, town: 2
+no, for, the, east, part: 2
+no, for, the, east, of: 2
+no, for, the, east, town: 2
+no, for, the, part, of: 2
+no, for, the, part, town: 2
+no, for, the, of, town: 2
+no, for, east, part, of: 2
+no, for, east, part, town: 2
+no, for, east, of, town: 2
+no, for, part, of, town: 2
+no, a, in, the, part: 2
+no, a, in, the, of: 2
+no, a, in, the, town: 2
+no, a, in, part, of: 2
+no, a, in, part, town: 2
+no, a, in, of, town: 2
+no, a, the, part, of: 2
+no, a, the, part, town: 2
+no, a, the, of, town: 2
+no, a, part, of, town: 2
+no, in, the, east, part: 2
+no, in, the, east, of: 2
+no, in, the, east, town: 2
+no, in, east, part, of: 2
+no, in, east, part, town: 2
+no, in, east, of, town: 2
+no, the, east, part, of: 2
+no, the, east, part, town: 2
+no, the, east, of, town: 2
+no, east, part, of, town: 2
+im, looking, for, in, the: 2
+im, looking, for, in, east: 2
+im, looking, for, in, part: 2
+im, looking, for, in, of: 2
+im, looking, for, in, town: 2
+im, looking, for, the, east: 2
+im, looking, for, the, part: 2
+im, looking, for, the, of: 2
+im, looking, for, the, town: 2
+im, looking, for, east, part: 2
+im, looking, for, east, of: 2
+im, looking, for, east, town: 2
+im, looking, for, part, of: 2
+im, looking, for, part, town: 2
+im, looking, for, of, town: 2
+im, looking, in, the, east: 2
+im, looking, in, the, part: 2
+im, looking, in, east, part: 2
+im, looking, in, east, of: 2
+im, looking, in, east, town: 2
+im, looking, in, part, of: 2
+im, looking, in, part, town: 2
+im, looking, the, east, part: 2
+im, looking, the, east, of: 2
+im, looking, the, east, town: 2
+im, looking, the, part, of: 2
+im, looking, the, part, town: 2
+im, looking, east, part, of: 2
+im, looking, east, part, town: 2
+im, looking, east, of, town: 2
+im, looking, part, of, town: 2
+im, for, in, the, east: 2
+im, for, in, the, part: 2
+im, for, in, the, of: 2
+im, for, in, the, town: 2
+im, for, in, east, part: 2
+im, for, in, east, of: 2
+im, for, in, east, town: 2
+im, for, in, part, of: 2
+im, for, in, part, town: 2
+im, for, in, of, town: 2
+im, for, the, east, part: 2
+im, for, the, east, of: 2
+im, for, the, east, town: 2
+im, for, the, part, of: 2
+im, for, the, part, town: 2
+im, for, the, of, town: 2
+im, for, east, part, of: 2
+im, for, east, part, town: 2
+im, for, east, of, town: 2
+im, for, part, of, town: 2
+im, in, the, east, part: 2
+im, in, the, east, of: 2
+im, in, the, east, town: 2
+im, in, the, part, of: 2
+im, in, the, part, town: 2
+im, in, east, part, of: 2
+im, in, east, part, town: 2
+im, in, east, of, town: 2
+im, in, part, of, town: 2
+im, the, east, part, of: 2
+im, the, east, part, town: 2
+im, the, east, of, town: 2
+im, the, part, of, town: 2
+im, east, part, of, town: 2
+looking, for, in, the, east: 2
+looking, for, in, the, part: 2
+looking, for, in, the, of: 2
+looking, for, in, the, town: 2
+looking, for, in, east, part: 2
+looking, for, in, east, of: 2
+looking, for, in, east, town: 2
+looking, for, in, part, of: 2
+looking, for, in, part, town: 2
+looking, for, in, of, town: 2
+looking, for, the, east, part: 2
+looking, for, the, east, of: 2
+looking, for, the, east, town: 2
+looking, for, the, part, of: 2
+looking, for, the, part, town: 2
+looking, for, the, of, town: 2
+looking, for, east, part, of: 2
+looking, for, east, part, town: 2
+looking, for, east, of, town: 2
+looking, for, part, of, town: 2
+looking, in, the, east, part: 2
+looking, in, the, east, of: 2
+looking, in, the, east, town: 2
+looking, in, the, part, of: 2
+looking, in, the, part, town: 2
+looking, in, east, part, of: 2
+looking, in, east, part, town: 2
+looking, in, east, of, town: 2
+looking, in, part, of, town: 2
+looking, the, east, part, of: 2
+looking, the, east, part, town: 2
+looking, the, east, of, town: 2
+looking, the, part, of, town: 2
+looking, east, part, of, town: 2
+for, in, the, east, part: 2
+for, in, the, east, of: 2
+for, in, the, east, town: 2
+for, in, the, part, of: 2
+for, in, the, part, town: 2
+for, in, the, of, town: 2
+for, in, east, part, of: 2
+for, in, east, part, town: 2
+for, in, east, of, town: 2
+for, in, part, of, town: 2
+for, the, east, part, of: 2
+for, the, east, part, town: 2
+for, the, east, of, town: 2
+for, the, part, of, town: 2
+for, east, part, of, town: 2
+a, in, the, part, of: 2
+a, in, the, part, town: 2
+a, in, the, of, town: 2
+a, in, part, of, town: 2
+a, the, part, of, town: 2
+in, the, east, part, of: 2
+in, the, east, part, town: 2
+in, the, east, of, town: 2
+in, east, part, of, town: 2
+the, east, part, of, town: 2
+
+Combinations of 4 Words ------------------------------
+no, im, looking, for: 17
+thank, you, good, bye: 13
+no, im, looking, food: 11
+no, im, for, food: 11
+no, looking, for, food: 11
+im, looking, for, food: 11
+no, thank, you, good: 9
+no, thank, you, bye: 9
+no, thank, good, bye: 9
+no, you, good, bye: 9
+no, in, the, town: 7
+no, looking, for, a: 6
+no, in, the, of: 6
+no, in, of, town: 6
+no, the, of, town: 6
+no, part, of, town: 6
+in, the, of, town: 6
+no, im, looking, a: 5
+no, im, for, a: 5
+im, looking, for, a: 5
+no, in, the, part: 5
+no, in, part, of: 5
+no, in, part, town: 5
+no, the, part, of: 5
+no, the, part, town: 5
+in, the, part, of: 5
+in, the, part, town: 5
+in, part, of, town: 5
+the, part, of, town: 5
+no, i, want, food: 5
+no, restaurant, in, the: 4
+no, restaurant, in, part: 4
+no, restaurant, in, of: 4
+no, restaurant, in, town: 4
+no, restaurant, the, part: 4
+no, restaurant, the, of: 4
+no, restaurant, the, town: 4
+no, restaurant, part, of: 4
+no, restaurant, part, town: 4
+no, restaurant, of, town: 4
+restaurant, in, the, part: 4
+restaurant, in, the, of: 4
+restaurant, in, the, town: 4
+restaurant, in, part, of: 4
+restaurant, in, part, town: 4
+restaurant, in, of, town: 4
+restaurant, the, part, of: 4
+restaurant, the, part, town: 4
+restaurant, the, of, town: 4
+restaurant, part, of, town: 4
+no, looking, for, restaurant: 4
+no, im, looking, the: 4
+no, im, in, the: 4
+no, im, the, town: 4
+no, looking, in, the: 4
+no, looking, the, town: 4
+im, looking, in, the: 4
+im, looking, the, town: 4
+im, in, the, town: 4
+looking, in, the, town: 4
+no, im, looking, that: 3
+no, im, for, that: 3
+no, looking, for, that: 3
+im, looking, for, that: 3
+no, cheap, in, the: 3
+no, cheap, in, part: 3
+no, cheap, in, of: 3
+no, cheap, in, town: 3
+no, cheap, the, part: 3
+no, cheap, the, of: 3
+no, cheap, the, town: 3
+no, cheap, part, of: 3
+no, cheap, part, town: 3
+no, cheap, of, town: 3
+cheap, in, the, part: 3
+cheap, in, the, of: 3
+cheap, in, the, town: 3
+cheap, in, part, of: 3
+cheap, in, part, town: 3
+cheap, in, of, town: 3
+cheap, the, part, of: 3
+cheap, the, part, town: 3
+cheap, the, of, town: 3
+cheap, part, of, town: 3
+no, im, looking, restaurant: 3
+no, im, for, restaurant: 3
+no, looking, a, restaurant: 3
+no, for, a, restaurant: 3
+im, looking, for, restaurant: 3
+looking, for, a, restaurant: 3
+no, in, the, south: 3
+no, im, looking, asian: 3
+no, im, for, asian: 3
+no, looking, for, asian: 3
+im, looking, for, asian: 3
+no, im, looking, thai: 3
+no, im, for, thai: 3
+no, im, thai, food: 3
+no, looking, for, thai: 3
+no, looking, thai, food: 3
+no, for, thai, food: 3
+im, looking, for, thai: 3
+im, looking, thai, food: 3
+im, for, thai, food: 3
+looking, for, thai, food: 3
+no, south, of, town: 3
+no, im, looking, in: 3
+no, im, looking, of: 3
+no, im, looking, town: 3
+no, im, in, of: 3
+no, im, in, town: 3
+no, im, the, of: 3
+no, im, of, town: 3
+no, looking, in, of: 3
+no, looking, in, town: 3
+no, looking, the, of: 3
+no, looking, of, town: 3
+im, looking, in, of: 3
+im, looking, in, town: 3
+im, looking, the, of: 3
+im, looking, of, town: 3
+im, in, the, of: 3
+im, in, of, town: 3
+im, the, of, town: 3
+looking, in, the, of: 3
+looking, in, of, town: 3
+looking, the, of, town: 3
+no, im, looking, unintelligible: 2
+no, im, looking, serves: 2
+no, im, for, unintelligible: 2
+no, im, for, serves: 2
+no, im, a, unintelligible: 2
+no, im, a, that: 2
+no, im, a, food: 2
+no, im, unintelligible, food: 2
+no, im, that, serves: 2
+no, im, that, food: 2
+no, im, serves, food: 2
+no, looking, for, unintelligible: 2
+no, looking, for, serves: 2
+no, looking, a, unintelligible: 2
+no, looking, a, that: 2
+no, looking, a, food: 2
+no, looking, unintelligible, food: 2
+no, looking, that, serves: 2
+no, looking, that, food: 2
+no, looking, serves, food: 2
+no, for, a, unintelligible: 2
+no, for, a, that: 2
+no, for, a, food: 2
+no, for, unintelligible, food: 2
+no, for, that, serves: 2
+no, for, that, food: 2
+no, for, serves, food: 2
+no, a, unintelligible, food: 2
+no, that, serves, food: 2
+im, looking, for, unintelligible: 2
+im, looking, for, serves: 2
+im, looking, a, unintelligible: 2
+im, looking, a, that: 2
+im, looking, a, food: 2
+im, looking, unintelligible, food: 2
+im, looking, that, serves: 2
+im, looking, that, food: 2
+im, looking, serves, food: 2
+im, for, a, unintelligible: 2
+im, for, a, that: 2
+im, for, a, food: 2
+im, for, unintelligible, food: 2
+im, for, that, serves: 2
+im, for, that, food: 2
+im, for, serves, food: 2
+im, a, unintelligible, food: 2
+im, that, serves, food: 2
+looking, for, a, unintelligible: 2
+looking, for, a, that: 2
+looking, for, a, food: 2
+looking, for, unintelligible, food: 2
+looking, for, that, serves: 2
+looking, for, that, food: 2
+looking, for, serves, food: 2
+looking, a, unintelligible, food: 2
+looking, that, serves, food: 2
+for, a, unintelligible, food: 2
+for, that, serves, food: 2
+no, cheap, restaurant, in: 2
+no, cheap, restaurant, the: 2
+no, cheap, restaurant, part: 2
+no, cheap, restaurant, of: 2
+no, cheap, restaurant, town: 2
+no, restaurant, in, west: 2
+no, restaurant, the, west: 2
+no, restaurant, west, part: 2
+no, restaurant, west, of: 2
+no, restaurant, west, town: 2
+no, in, the, west: 2
+no, in, west, part: 2
+no, in, west, of: 2
+no, in, west, town: 2
+no, the, west, part: 2
+no, the, west, of: 2
+no, the, west, town: 2
+no, west, part, of: 2
+no, west, part, town: 2
+no, west, of, town: 2
+cheap, restaurant, in, the: 2
+cheap, restaurant, in, part: 2
+cheap, restaurant, in, of: 2
+cheap, restaurant, in, town: 2
+cheap, restaurant, the, part: 2
+cheap, restaurant, the, of: 2
+cheap, restaurant, the, town: 2
+cheap, restaurant, part, of: 2
+cheap, restaurant, part, town: 2
+cheap, restaurant, of, town: 2
+restaurant, in, the, west: 2
+restaurant, in, west, part: 2
+restaurant, in, west, of: 2
+restaurant, in, west, town: 2
+restaurant, the, west, part: 2
+restaurant, the, west, of: 2
+restaurant, the, west, town: 2
+restaurant, west, part, of: 2
+restaurant, west, part, town: 2
+restaurant, west, of, town: 2
+in, the, west, part: 2
+in, the, west, of: 2
+in, the, west, town: 2
+in, west, part, of: 2
+in, west, part, town: 2
+in, west, of, town: 2
+the, west, part, of: 2
+the, west, part, town: 2
+the, west, of, town: 2
+west, part, of, town: 2
+no, im, a, restaurant: 2
+no, moderately, priced, restaurant: 2
+im, looking, a, restaurant: 2
+im, for, a, restaurant: 2
+no, im, asian, food: 2
+no, looking, asian, food: 2
+no, for, asian, food: 2
+no, pan, asian, food: 2
+im, looking, asian, food: 2
+im, for, asian, food: 2
+looking, for, asian, food: 2
+no, looking, for, vietnamese: 2
+no, what, about, food: 2
+no, such, venue, how: 2
+no, such, venue, about: 2
+no, such, venue, portuguese: 2
+no, such, venue, food: 2
+no, such, how, about: 2
+no, such, how, portuguese: 2
+no, such, how, food: 2
+no, such, about, portuguese: 2
+no, such, about, food: 2
+no, such, portuguese, food: 2
+no, venue, how, about: 2
+no, venue, how, portuguese: 2
+no, venue, how, food: 2
+no, venue, about, portuguese: 2
+no, venue, about, food: 2
+no, venue, portuguese, food: 2
+no, how, about, portuguese: 2
+no, how, about, food: 2
+no, how, portuguese, food: 2
+no, about, portuguese, food: 2
+no, south, part, of: 2
+no, south, part, town: 2
+south, part, of, town: 2
+no, i, a, restaurant: 2
+no, in, south, of: 2
+no, in, south, town: 2
+no, the, south, of: 2
+no, the, south, town: 2
+in, the, south, of: 2
+in, the, south, town: 2
+in, south, of, town: 2
+the, south, of, town: 2
+no, im, looking, east: 2
+no, im, looking, part: 2
+no, im, for, in: 2
+no, im, for, the: 2
+no, im, for, east: 2
+no, im, for, part: 2
+no, im, for, of: 2
+no, im, for, town: 2
+no, im, in, east: 2
+no, im, in, part: 2
+no, im, the, east: 2
+no, im, the, part: 2
+no, im, east, part: 2
+no, im, east, of: 2
+no, im, east, town: 2
+no, im, part, of: 2
+no, im, part, town: 2
+no, looking, for, in: 2
+no, looking, for, the: 2
+no, looking, for, east: 2
+no, looking, for, part: 2
+no, looking, for, of: 2
+no, looking, for, town: 2
+no, looking, in, east: 2
+no, looking, in, part: 2
+no, looking, the, east: 2
+no, looking, the, part: 2
+no, looking, east, part: 2
+no, looking, east, of: 2
+no, looking, east, town: 2
+no, looking, part, of: 2
+no, looking, part, town: 2
+no, for, in, the: 2
+no, for, in, east: 2
+no, for, in, part: 2
+no, for, in, of: 2
+no, for, in, town: 2
+no, for, the, east: 2
+no, for, the, part: 2
+no, for, the, of: 2
+no, for, the, town: 2
+no, for, east, part: 2
+no, for, east, of: 2
+no, for, east, town: 2
+no, for, part, of: 2
+no, for, part, town: 2
+no, for, of, town: 2
+no, a, in, the: 2
+no, a, in, part: 2
+no, a, in, of: 2
+no, a, in, town: 2
+no, a, the, part: 2
+no, a, the, of: 2
+no, a, the, town: 2
+no, a, part, of: 2
+no, a, part, town: 2
+no, a, of, town: 2
+no, in, the, east: 2
+no, in, east, part: 2
+no, in, east, of: 2
+no, in, east, town: 2
+no, the, east, part: 2
+no, the, east, of: 2
+no, the, east, town: 2
+no, east, part, of: 2
+no, east, part, town: 2
+no, east, of, town: 2
+im, looking, for, in: 2
+im, looking, for, the: 2
+im, looking, for, east: 2
+im, looking, for, part: 2
+im, looking, for, of: 2
+im, looking, for, town: 2
+im, looking, in, east: 2
+im, looking, in, part: 2
+im, looking, the, east: 2
+im, looking, the, part: 2
+im, looking, east, part: 2
+im, looking, east, of: 2
+im, looking, east, town: 2
+im, looking, part, of: 2
+im, looking, part, town: 2
+im, for, in, the: 2
+im, for, in, east: 2
+im, for, in, part: 2
+im, for, in, of: 2
+im, for, in, town: 2
+im, for, the, east: 2
+im, for, the, part: 2
+im, for, the, of: 2
+im, for, the, town: 2
+im, for, east, part: 2
+im, for, east, of: 2
+im, for, east, town: 2
+im, for, part, of: 2
+im, for, part, town: 2
+im, for, of, town: 2
+im, in, the, east: 2
+im, in, the, part: 2
+im, in, east, part: 2
+im, in, east, of: 2
+im, in, east, town: 2
+im, in, part, of: 2
+im, in, part, town: 2
+im, the, east, part: 2
+im, the, east, of: 2
+im, the, east, town: 2
+im, the, part, of: 2
+im, the, part, town: 2
+im, east, part, of: 2
+im, east, part, town: 2
+im, east, of, town: 2
+im, part, of, town: 2
+looking, for, in, the: 2
+looking, for, in, east: 2
+looking, for, in, part: 2
+looking, for, in, of: 2
+looking, for, in, town: 2
+looking, for, the, east: 2
+looking, for, the, part: 2
+looking, for, the, of: 2
+looking, for, the, town: 2
+looking, for, east, part: 2
+looking, for, east, of: 2
+looking, for, east, town: 2
+looking, for, part, of: 2
+looking, for, part, town: 2
+looking, for, of, town: 2
+looking, in, the, east: 2
+looking, in, the, part: 2
+looking, in, east, part: 2
+looking, in, east, of: 2
+looking, in, east, town: 2
+looking, in, part, of: 2
+looking, in, part, town: 2
+looking, the, east, part: 2
+looking, the, east, of: 2
+looking, the, east, town: 2
+looking, the, part, of: 2
+looking, the, part, town: 2
+looking, east, part, of: 2
+looking, east, part, town: 2
+looking, east, of, town: 2
+looking, part, of, town: 2
+for, in, the, east: 2
+for, in, the, part: 2
+for, in, the, of: 2
+for, in, the, town: 2
+for, in, east, part: 2
+for, in, east, of: 2
+for, in, east, town: 2
+for, in, part, of: 2
+for, in, part, town: 2
+for, in, of, town: 2
+for, the, east, part: 2
+for, the, east, of: 2
+for, the, east, town: 2
+for, the, part, of: 2
+for, the, part, town: 2
+for, the, of, town: 2
+for, east, part, of: 2
+for, east, part, town: 2
+for, east, of, town: 2
+for, part, of, town: 2
+a, in, the, part: 2
+a, in, the, of: 2
+a, in, the, town: 2
+a, in, part, of: 2
+a, in, part, town: 2
+a, in, of, town: 2
+a, the, part, of: 2
+a, the, part, town: 2
+a, the, of, town: 2
+a, part, of, town: 2
+in, the, east, part: 2
+in, the, east, of: 2
+in, the, east, town: 2
+in, east, part, of: 2
+in, east, part, town: 2
+in, east, of, town: 2
+the, east, part, of: 2
+the, east, part, town: 2
+the, east, of, town: 2
+east, part, of, town: 2
+
+Combinations of 3 Words ------------------------------
+no, im, looking: 21
+no, looking, for: 18
+no, im, for: 17
+im, looking, for: 17
+no, thank, you: 12
+thank, you, good: 12
+thank, you, bye: 12
+thank, good, bye: 12
+you, good, bye: 12
+no, im, food: 11
+no, looking, food: 11
+no, for, food: 11
+im, looking, food: 11
+im, for, food: 11
+looking, for, food: 11
+no, thank, good: 9
+no, thank, bye: 9
+no, you, good: 9
+no, you, bye: 9
+no, good, bye: 9
+no, in, the: 8
+no, the, town: 7
+no, of, town: 7
+in, the, town: 7
+no, i, want: 7
+no, thai, food: 7
+no, looking, a: 6
+no, for, a: 6
+looking, for, a: 6
+no, in, of: 6
+no, in, town: 6
+no, the, of: 6
+no, part, of: 6
+no, part, town: 6
+in, the, of: 6
+in, of, town: 6
+the, of, town: 6
+part, of, town: 6
+no, i, food: 6
+no, im, a: 5
+im, looking, a: 5
+im, for, a: 5
+no, in, part: 5
+no, the, part: 5
+in, the, part: 5
+in, part, of: 5
+in, part, town: 5
+the, part, of: 5
+the, part, town: 5
+no, a, restaurant: 5
+no, want, food: 5
+i, want, food: 5
+no, cheap, restaurant: 4
+no, restaurant, in: 4
+no, restaurant, the: 4
+no, restaurant, part: 4
+no, restaurant, of: 4
+no, restaurant, town: 4
+restaurant, in, the: 4
+restaurant, in, part: 4
+restaurant, in, of: 4
+restaurant, in, town: 4
+restaurant, the, part: 4
+restaurant, the, of: 4
+restaurant, the, town: 4
+restaurant, part, of: 4
+restaurant, part, town: 4
+restaurant, of, town: 4
+no, looking, restaurant: 4
+no, for, restaurant: 4
+looking, for, restaurant: 4
+no, italian, food: 4
+no, asian, oriental: 4
+no, about, food: 4
+no, im, the: 4
+no, looking, the: 4
+im, looking, the: 4
+im, in, the: 4
+im, the, town: 4
+looking, in, the: 4
+looking, the, town: 4
+no, im, that: 3
+no, looking, that: 3
+no, for, that: 3
+no, unintelligible, food: 3
+no, that, food: 3
+im, looking, that: 3
+im, for, that: 3
+looking, for, that: 3
+no, how, about: 3
+no, spanish, food: 3
+no, cheap, in: 3
+no, cheap, the: 3
+no, cheap, part: 3
+no, cheap, of: 3
+no, cheap, town: 3
+cheap, in, the: 3
+cheap, in, part: 3
+cheap, in, of: 3
+cheap, in, town: 3
+cheap, the, part: 3
+cheap, the, of: 3
+cheap, the, town: 3
+cheap, part, of: 3
+cheap, part, town: 3
+cheap, of, town: 3
+no, im, restaurant: 3
+no, moderately, priced: 3
+im, looking, restaurant: 3
+im, for, restaurant: 3
+looking, a, restaurant: 3
+for, a, restaurant: 3
+no, in, south: 3
+no, the, south: 3
+in, the, south: 3
+no, im, asian: 3
+no, looking, asian: 3
+no, for, asian: 3
+no, asian, food: 3
+im, looking, asian: 3
+im, for, asian: 3
+looking, for, asian: 3
+no, french, food: 3
+no, cuban, food: 3
+no, portuguese, food: 3
+breath, no, food: 3
+no, im, thai: 3
+no, looking, thai: 3
+no, for, thai: 3
+im, looking, thai: 3
+im, for, thai: 3
+im, thai, food: 3
+looking, for, thai: 3
+looking, thai, food: 3
+for, thai, food: 3
+no, south, of: 3
+no, south, town: 3
+south, of, town: 3
+no, im, in: 3
+no, im, of: 3
+no, im, town: 3
+no, looking, in: 3
+no, looking, of: 3
+no, looking, town: 3
+im, looking, in: 3
+im, looking, of: 3
+im, looking, town: 3
+im, in, of: 3
+im, in, town: 3
+im, the, of: 3
+im, of, town: 3
+looking, in, of: 3
+looking, in, town: 3
+looking, the, of: 3
+looking, of, town: 3
+no, im, unintelligible: 2
+no, im, serves: 2
+no, looking, unintelligible: 2
+no, looking, serves: 2
+no, for, unintelligible: 2
+no, for, serves: 2
+no, a, unintelligible: 2
+no, a, that: 2
+no, a, food: 2
+no, that, serves: 2
+no, serves, food: 2
+im, looking, unintelligible: 2
+im, looking, serves: 2
+im, for, unintelligible: 2
+im, for, serves: 2
+im, a, unintelligible: 2
+im, a, that: 2
+im, a, food: 2
+im, unintelligible, food: 2
+im, that, serves: 2
+im, that, food: 2
+im, serves, food: 2
+looking, for, unintelligible: 2
+looking, for, serves: 2
+looking, a, unintelligible: 2
+looking, a, that: 2
+looking, a, food: 2
+looking, unintelligible, food: 2
+looking, that, serves: 2
+looking, that, food: 2
+looking, serves, food: 2
+for, a, unintelligible: 2
+for, a, that: 2
+for, a, food: 2
+for, unintelligible, food: 2
+for, that, serves: 2
+for, that, food: 2
+for, serves, food: 2
+a, unintelligible, food: 2
+that, serves, food: 2
+no, about, thai: 2
+no, id, like: 2
+no, restaurant, west: 2
+no, in, west: 2
+no, the, west: 2
+no, west, part: 2
+no, west, of: 2
+no, west, town: 2
+cheap, restaurant, in: 2
+cheap, restaurant, the: 2
+cheap, restaurant, part: 2
+cheap, restaurant, of: 2
+cheap, restaurant, town: 2
+restaurant, in, west: 2
+restaurant, the, west: 2
+restaurant, west, part: 2
+restaurant, west, of: 2
+restaurant, west, town: 2
+in, the, west: 2
+in, west, part: 2
+in, west, of: 2
+in, west, town: 2
+the, west, part: 2
+the, west, of: 2
+the, west, town: 2
+west, part, of: 2
+west, part, town: 2
+west, of, town: 2
+no, moderately, restaurant: 2
+no, priced, restaurant: 2
+im, a, restaurant: 2
+moderately, priced, restaurant: 2
+no, pan, asian: 2
+no, pan, food: 2
+im, asian, food: 2
+looking, asian, food: 2
+for, asian, food: 2
+pan, asian, food: 2
+no, hungarian, food: 2
+no, looking, vietnamese: 2
+no, for, vietnamese: 2
+looking, for, vietnamese: 2
+no, eritrean, food: 2
+no, im, expensive: 2
+no, what, about: 2
+no, what, food: 2
+what, about, food: 2
+no, is, food: 2
+no, such, venue: 2
+no, such, how: 2
+no, such, about: 2
+no, such, portuguese: 2
+no, such, food: 2
+no, venue, how: 2
+no, venue, about: 2
+no, venue, portuguese: 2
+no, venue, food: 2
+no, how, portuguese: 2
+no, how, food: 2
+no, about, portuguese: 2
+no, south, part: 2
+south, part, of: 2
+south, part, town: 2
+no, american, food: 2
+no, any, area: 2
+no, british, food: 2
+no, i, a: 2
+no, i, restaurant: 2
+i, a, restaurant: 2
+in, south, of: 2
+in, south, town: 2
+the, south, of: 2
+the, south, town: 2
+no, im, east: 2
+no, im, part: 2
+no, looking, east: 2
+no, looking, part: 2
+no, for, in: 2
+no, for, the: 2
+no, for, east: 2
+no, for, part: 2
+no, for, of: 2
+no, for, town: 2
+no, a, cheap: 2
+no, a, in: 2
+no, a, the: 2
+no, a, part: 2
+no, a, of: 2
+no, a, town: 2
+no, in, east: 2
+no, the, east: 2
+no, east, part: 2
+no, east, of: 2
+no, east, town: 2
+im, looking, east: 2
+im, looking, part: 2
+im, for, in: 2
+im, for, the: 2
+im, for, east: 2
+im, for, part: 2
+im, for, of: 2
+im, for, town: 2
+im, in, east: 2
+im, in, part: 2
+im, the, east: 2
+im, the, part: 2
+im, east, part: 2
+im, east, of: 2
+im, east, town: 2
+im, part, of: 2
+im, part, town: 2
+looking, for, in: 2
+looking, for, the: 2
+looking, for, east: 2
+looking, for, part: 2
+looking, for, of: 2
+looking, for, town: 2
+looking, in, east: 2
+looking, in, part: 2
+looking, the, east: 2
+looking, the, part: 2
+looking, east, part: 2
+looking, east, of: 2
+looking, east, town: 2
+looking, part, of: 2
+looking, part, town: 2
+for, in, the: 2
+for, in, east: 2
+for, in, part: 2
+for, in, of: 2
+for, in, town: 2
+for, the, east: 2
+for, the, part: 2
+for, the, of: 2
+for, the, town: 2
+for, east, part: 2
+for, east, of: 2
+for, east, town: 2
+for, part, of: 2
+for, part, town: 2
+for, of, town: 2
+a, in, the: 2
+a, in, part: 2
+a, in, of: 2
+a, in, town: 2
+a, the, part: 2
+a, the, of: 2
+a, the, town: 2
+a, part, of: 2
+a, part, town: 2
+a, of, town: 2
+in, the, east: 2
+in, east, part: 2
+in, east, of: 2
+in, east, town: 2
+the, east, part: 2
+the, east, of: 2
+the, east, town: 2
+east, part, of: 2
+east, part, town: 2
+east, of, town: 2
+no, air, tran: 2
+
+Combinations of 2 Words ------------------------------
+no, food: 48
+no, im: 22
+no, looking: 22
+im, looking: 20
+no, for: 18
+looking, for: 18
+im, for: 17
+thank, you: 14
+no, thank: 12
+no, you: 12
+im, food: 11
+looking, food: 11
+for, food: 11
+no, restaurant: 11
+no, good: 11
+thank, good: 11
+thank, bye: 11
+you, good: 11
+you, bye: 11
+good, bye: 11
+no, i: 11
+no, thai: 9
+no, the: 9
+no, bye: 9
+no, a: 8
+no, in: 8
+no, of: 8
+in, the: 8
+no, asian: 8
+no, spanish: 7
+no, town: 7
+the, town: 7
+of, town: 7
+no, want: 7
+i, want: 7
+thai, food: 7
+looking, a: 6
+for, a: 6
+no, cheap: 6
+no, part: 6
+in, of: 6
+in, town: 6
+the, of: 6
+part, of: 6
+part, town: 6
+i, food: 6
+uh, no: 6
+im, a: 5
+no, about: 5
+in, part: 5
+the, part: 5
+a, restaurant: 5
+no, south: 5
+no, indian: 5
+want, food: 5
+no, unintelligible: 4
+no, that: 4
+cheap, restaurant: 4
+restaurant, in: 4
+restaurant, the: 4
+restaurant, part: 4
+restaurant, of: 4
+restaurant, town: 4
+looking, restaurant: 4
+for, restaurant: 4
+no, italian: 4
+italian, food: 4
+no, portuguese: 4
+no, french: 4
+no, oriental: 4
+asian, oriental: 4
+im, the: 4
+looking, the: 4
+im, that: 3
+looking, that: 3
+for, that: 3
+unintelligible, food: 3
+that, food: 3
+no, how: 3
+spanish, food: 3
+cheap, in: 3
+cheap, the: 3
+cheap, part: 3
+cheap, of: 3
+cheap, town: 3
+no, moderately: 3
+no, priced: 3
+im, restaurant: 3
+moderately, priced: 3
+in, south: 3
+the, south: 3
+im, asian: 3
+looking, asian: 3
+for, asian: 3
+asian, food: 3
+no, hungarian: 3
+french, food: 3
+cuban, food: 3
+no, vietnamese: 3
+no, eritrean: 3
+no, north: 3
+no, chinese: 3
+breath, no: 3
+breath, food: 3
+im, thai: 3
+looking, thai: 3
+for, thai: 3
+about, food: 3
+no, no: 3
+no, is: 3
+south, of: 3
+south, town: 3
+no, caribbean: 3
+im, in: 3
+im, of: 3
+im, town: 3
+looking, in: 3
+looking, of: 3
+looking, town: 3
+no, serves: 2
+im, unintelligible: 2
+im, serves: 2
+looking, unintelligible: 2
+looking, serves: 2
+for, unintelligible: 2
+for, serves: 2
+a, unintelligible: 2
+a, that: 2
+a, food: 2
+that, serves: 2
+serves, food: 2
+how, about: 2
+about, thai: 2
+no, id: 2
+no, like: 2
+no, west: 2
+id, like: 2
+restaurant, west: 2
+in, west: 2
+the, west: 2
+west, part: 2
+west, of: 2
+west, town: 2
+moderately, restaurant: 2
+priced, restaurant: 2
+no, not: 2
+no, pan: 2
+pan, asian: 2
+pan, food: 2
+hungarian, food: 2
+no, canapes: 2
+no, cuban: 2
+looking, vietnamese: 2
+for, vietnamese: 2
+eritrean, food: 2
+no, belgium: 2
+no, gastropub: 2
+portuguese, food: 2
+no, expensive: 2
+im, expensive: 2
+no, thats: 2
+no, what: 2
+what, about: 2
+what, food: 2
+is, food: 2
+no, there: 2
+no, such: 2
+no, venue: 2
+south, part: 2
+no, american: 2
+american, food: 2
+no, any: 2
+no, area: 2
+any, area: 2
+no, british: 2
+british, food: 2
+i, a: 2
+i, restaurant: 2
+no, catalan: 2
+no, else: 2
+no, and: 2
+no, east: 2
+im, east: 2
+im, part: 2
+looking, east: 2
+looking, part: 2
+for, in: 2
+for, the: 2
+for, east: 2
+for, part: 2
+for, of: 2
+for, town: 2
+a, cheap: 2
+a, in: 2
+a, the: 2
+a, part: 2
+a, of: 2
+a, town: 2
+in, east: 2
+the, east: 2
+east, part: 2
+east, of: 2
+east, town: 2
+no, air: 2
+no, tran: 2
+air, tran: 2
+
+Combinations of 1 Words ------------------------------
+no: 368
+food: 47
+im: 21
+looking: 21
+for: 18
+thank: 13
+you: 13
+good: 12
+restaurant: 11
+i: 11
+bye: 10
+thai: 9
+the: 9
+a: 8
+in: 8
+of: 8
+asian: 8
+spanish: 7
+town: 7
+want: 7
+cheap: 6
+part: 6
+uh: 6
+south: 5
+indian: 5
+unintelligible: 4
+that: 4
+about: 4
+italian: 4
+french: 4
+oriental: 4
+not: 3
+moderately: 3
+priced: 3
+hungarian: 3
+portuguese: 3
+vietnamese: 3
+eritrean: 3
+north: 3
+chinese: 3
+breath: 3
+what: 3
+is: 3
+caribbean: 3
+serves: 2
+how: 2
+id: 2
+like: 2
+west: 2
+noise: 2
+pan: 2
+canapes: 2
+cuban: 2
+belgium: 2
+gastropub: 2
+expensive: 2
+thats: 2
+there: 2
+american: 2
+um: 2
+any: 2
+area: 2
+british: 2
+oh: 2
+catalan: 2
+else: 2
+and: 2
+east: 2
+air: 2
+tran: 2

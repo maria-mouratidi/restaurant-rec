@@ -1,0 +1,30 @@
+ack ==================================================
+
+Combinations of 5 Words ------------------------------
+
+Combinations of 4 Words ------------------------------
+
+Combinations of 3 Words ------------------------------
+okay, me, the: 2
+
+Combinations of 2 Words ------------------------------
+okay, um: 7
+okay, me: 3
+okay, the: 3
+me, the: 2
+the, address: 2
+what, the: 2
+okay, about: 2
+
+Combinations of 1 Words ------------------------------
+okay: 13
+um: 8
+the: 5
+kay: 4
+me: 3
+good: 2
+address: 2
+that: 2
+one: 2
+what: 2
+about: 2

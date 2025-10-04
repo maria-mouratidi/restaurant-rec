@@ -1,0 +1,15 @@
+restart ==================================================
+
+Combinations of 5 Words ------------------------------
+
+Combinations of 4 Words ------------------------------
+
+Combinations of 3 Words ------------------------------
+
+Combinations of 2 Words ------------------------------
+start, over: 9
+
+Combinations of 1 Words ------------------------------
+start: 10
+over: 9
+reset: 2
